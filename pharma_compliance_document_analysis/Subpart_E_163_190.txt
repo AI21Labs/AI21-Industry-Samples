@@ -1,0 +1,852 @@
+Subpart E—Control of Compo- nents and Drug Product Con- tainers and Closures
+§ 211.80 General requirements.
+(a) There shall be written procedures describing in sufficient detail the re- ceipt, identification, storage, handling, sampling, testing, and approval or re- jection of components and drug prod- uct containers and closures; such writ- ten procedures shall be followed.
+(b) Components and drug product containers and closures shall at all times be handled and stored in a man- ner to prevent contamination.
+(c) Bagged or boxed components of drug product containers, or closures shall be stored off the floor and suit- ably spaced to permit cleaning and in- spection.
+(d) Each container or grouping of containers for components or drug product containers, or closures shall be identified with a distinctive code for each lot in each shipment received. This code shall be used in recording the disposition of each lot. Each lot shall be appropriately identified as to its status (i.e., quarantined, approved, or rejected).
+§211.82 Receipt and storage of untest- ed components, drug product con- tainers, and closures.
+(a) Upon receipt and before accept- ance, each container or grouping of containers of components, drug prod- uct containers, and closures shall be examined visually for appropriate la- beling as to contents, container dam- age or broken seals, and contamina- tion.
+(b) Components, drug product con- tainers, and closures shall be stored under quarantine until they have been tested or examined, whichever is appro- priate, and released. Storage within
+163
+rmajette on DSKB3F4F33PROD with CFR
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00174 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.84
+the area shall conform to the require- ments of § 211.80.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008]
+§211.84 Testing and approval or rejec- tion of components, drug product containers, and closures.
+(a) Each lot of components, drug product containers, and closures shall be withheld from use until the lot has been sampled, tested, or examined, as appropriate, and released for use by the quality control unit.
+(b) Representative samples of each shipment of each lot shall be collected for testing or examination. The num- ber of containers to be sampled, and the amount of material to be taken from each container, shall be based upon appropriate criteria such as sta- tistical criteria for component varia- bility, confidence levels, and degree of precision desired, the past quality his- tory of the supplier, and the quantity needed for analysis and reserve where required by § 211.170.
+(c) Samples shall be collected in ac- cordance with the following proce- dures:
+(1) The containers of components se- lected shall be cleaned when necessary in a manner to prevent introduction of contaminants into the component.
+(2) The containers shall be opened, sampled, and resealed in a manner de- signed to prevent contamination of their contents and contamination of other components, drug product con- tainers, or closures.
+(3) Sterile equipment and aseptic sampling techniques shall be used when necessary.
+(4) If it is necessary to sample a com- ponent from the top, middle, and bot- tom of its container, such sample sub- divisions shall not be composited for testing.
+(5) Sample containers shall be identi- fied so that the following information can be determined: name of the mate- rial sampled, the lot number, the con- tainer from which the sample was taken, the date on which the sample was taken, and the name of the person who collected the sample.
+(6) Containers from which samples have been taken shall be marked to
+21 CFR Ch. I (4–1–22 Edition)
+show that samples have been removed from them.
+(d) Samples shall be examined and tested as follows:
+(1) At least one test shall be con- ducted to verify the identity of each component of a drug product. Specific identity tests, if they exist, shall be used.
+(2) Each component shall be tested for conformity with all appropriate written specifications for purity, strength, and quality. In lieu of such testing by the manufacturer, a report of analysis may be accepted from the supplier of a component, provided that at least one specific identity test is conducted on such component by the manufacturer, and provided that the manufacturer establishes the reli- ability of the supplier’s analyses through appropriate validation of the supplier’s test results at appropriate intervals.
+(3) Containers and closures shall be tested for conformity with all appro- priate written specifications. In lieu of such testing by the manufacturer, a certificate of testing may be accepted from the supplier, provided that at least a visual identification is con- ducted on such containers/closures by the manufacturer and provided that the manufacturer establishes the reli- ability of the supplier’s test results through appropriate validation of the supplier’s test results at appropriate intervals.
+(4) When appropriate, components shall be microscopically examined.
+(5) Each lot of a component, drug product container, or closure that is liable to contamination with filth, in- sect infestation, or other extraneous adulterant shall be examined against established specifications for such con- tamination.
+(6) Each lot of a component, drug product container, or closure with po- tential for microbiological contamina- tion that is objectionable in view of its intended use shall be subjected to microbiological tests before use.
+(e) Any lot of components, drug prod- uct containers, or closures that meets the appropriate written specifications of identity, strength, quality, and pu- rity and related tests under paragraph (d) of this section may be approved and
+164
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00175 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+released for use. Any lot of such mate- rial that does not meet such specifica- tions shall be rejected.
+[43 FR 45077, Sept. 29, 1978, as amended at 63 FR 14356, Mar. 25, 1998; 73 FR 51932, Sept. 8, 2008]
+§211.86 Use of approved components, drug product containers, and clo- sures.
+Components, drug product con- tainers, and closures approved for use shall be rotated so that the oldest ap- proved stock is used first. Deviation from this requirement is permitted if such deviation is temporary and appro- priate.
+§211.87 Retesting of approved compo- nents, drug product containers, and closures.
+Components, drug product con- tainers, and closures shall be retested or reexamined, as appropriate, for iden- tity, strength, quality, and purity and approved or rejected by the quality control unit in accordance with §211.84 as necessary, e.g., after storage for long periods or after exposure to air, heat or other conditions that might ad- versely affect the component, drug product container, or closure.
+§211.89 Rejected components, drug product containers, and closures.
+Rejected components, drug product containers, and closures shall be iden- tified and controlled under a quar- antine system designed to prevent their use in manufacturing or proc- essing operations for which they are unsuitable.
+§211.94 Drug product containers and closures.
+(a) Drug product containers and clo- sures shall not be reactive, additive, or absorptive so as to alter the safety, identity, strength, quality, or purity of the drug beyond the official or estab- lished requirements.
+(b) Container closure systems shall provide adequate protection against foreseeable external factors in storage and use that can cause deterioration or contamination of the drug product.
+(c) Drug product containers and clo- sures shall be clean and, where indi- cated by the nature of the drug, steri-
+§ 211.94
+lized and processed to remove pyrogenic properties to assure that they are suitable for their intended use. Such depyrogenation processes shall be validated.
+(d) Standards or specifications, meth- ods of testing, and, where indicated, methods of cleaning, sterilizing, and processing to remove pyrogenic prop- erties shall be written and followed for drug product containers and closures.
+(e) Medical gas containers and closures must meet the following requirements—(1) Gas-specific use outlet connections. Port- able cryogenic medical gas containers that are not manufactured with perma- nent gas use outlet connections (e.g., those that have been silver-brazed) must have gas-specific use outlet con- nections that are attached to the valve body so that they cannot be readily re- moved or replaced (without making the valve inoperable and preventing the containers’ use) except by the manu- facturer. For the purposes of this para- graph, the term ‘‘manufacturer’’ in- cludes any individual or firm that fills high-pressure medical gas cylinders or cryogenic medical gas containers. For the purposes of this section, a ‘‘port- able cryogenic medical gas container’’ is one that is capable of being trans- ported and is intended to be attached to a medical gas supply system within a hospital, health care entity, nursing home, other facility, or home health care setting, or is a base unit used to fill small cryogenic gas containers for use by individual patients. The term does not include cryogenic containers that are not designed to be connected to a medical gas supply system, e.g., tank trucks, trailers, rail cars, or small cryogenic gas containers for use by individual patients (including port- able liquid oxygen units as defined at § 868.5655 of this chapter).
+(2) Label and coloring requirements. The labeling specified at §201.328(a) of this chapter must be affixed to the con- tainer in a manner that does not inter- fere with other labeling and such that it is not susceptible to becoming worn or inadvertently detached during nor- mal use. Each such label as well as ma- terials used for coloring medical gas containers must be reasonably resist- ant to fading, durable when exposed to
+165
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00176 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.100
+atmospheric conditions, and not read- ily soluble in water.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008; 81 FR 81697, Nov. 18, 2016]
+Subpart F—Production and Process Controls
+§211.100 Written procedures; devi- ations.
+(a) There shall be written procedures for production and process control de- signed to assure that the drug products have the identity, strength, quality, and purity they purport or are rep- resented to possess. Such procedures shall include all requirements in this subpart. These written procedures, in- cluding any changes, shall be drafted, reviewed, and approved by the appro- priate organizational units and re- viewed and approved by the quality control unit.
+(b) Written production and process control procedures shall be followed in the execution of the various production and process control functions and shall be documented at the time of perform- ance. Any deviation from the written procedures shall be recorded and justi- fied.
+§ 211.101 Charge-in of components.
+Written production and control pro- cedures shall include the following, which are designed to assure that the drug products produced have the iden- tity, strength, quality, and purity they purport or are represented to possess:
+(a) The batch shall be formulated with the intent to provide not less than 100 percent of the labeled or established amount of active ingredient.
+(b) Components for drug product manufacturing shall be weighed, meas- ured, or subdivided as appropriate. If a component is removed from the origi- nal container to another, the new con- tainer shall be identified with the fol- lowing information:
+(1) Component name or item code;
+(2) Receiving or control number;
+(3) Weight or measure in new con-
+tainer;
+(4) Batch for which component was
+dispensed, including its product name, strength, and lot number.
+21 CFR Ch. I (4–1–22 Edition)
+(c) Weighing, measuring, or subdi- viding operations for components shall be adequately supervised. Each con- tainer of component dispensed to man- ufacturing shall be examined by a sec- ond person to assure that:
+(1) The component was released by the quality control unit;
+(2) The weight or measure is correct as stated in the batch production records;
+(3) The containers are properly iden- tified. If the weighing, measuring, or subdividing operations are performed by automated equipment under §211.68, only one person is needed to assure paragraphs (c)(1), (c)(2), and (c)(3) of this section.
+(d) Each component shall either be added to the batch by one person and verified by a second person or, if the components are added by automated equipment under §211.68, only verified by one person.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008]
+§ 211.103 Calculation of yield.
+Actual yields and percentages of the- oretical yield shall be determined at the conclusion of each appropriate phase of manufacturing, processing, packaging, or holding of the drug prod- uct. Such calculations shall either be performed by one person and independ- ently verified by a second person, or, if the yield is calculated by automated equipment under §211.68, be independ- ently verified by one person.
+[73 FR 51932, Sept. 8, 2008]
+§ 211.105 Equipment identification.
+(a) All compounding and storage con- tainers, processing lines, and major equipment used during the production of a batch of a drug product shall be properly identified at all times to indi- cate their contents and, when nec- essary, the phase of processing of the batch.
+(b) Major equipment shall be identi- fied by a distinctive identification number or code that shall be recorded in the batch production record to show the specific equipment used in the manufacture of each batch of a drug product. In cases where only one of a particular type of equipment exists in
+166
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00177 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+a manufacturing facility, the name of the equipment may be used in lieu of a distinctive identification number or code.
+§211.110 Sampling and testing of in- process materials and drug prod- ucts.
+(a) To assure batch uniformity and integrity of drug products, written pro- cedures shall be established and fol- lowed that describe the in-process con- trols, and tests, or examinations to be conducted on appropriate samples of in-process materials of each batch. Such control procedures shall be estab- lished to monitor the output and to validate the performance of those man- ufacturing processes that may be re- sponsible for causing variability in the characteristics of in-process material and the drug product. Such control procedures shall include, but are not limited to, the following, where appro- priate:
+(1) Tablet or capsule weight vari- ation;
+(2) Disintegration time;
+(3) Adequacy of mixing to assure uni- formity and homogeneity;
+(4) Dissolution time and rate;
+(5) Clarity, completeness, or pH of so- lutions.
+(6) Bioburden testing.
+(b) Valid in-process specifications for such characteristics shall be consistent with drug product final specifications and shall be derived from previous ac- ceptable process average and process variability estimates where possible and determined by the application of suitable statistical procedures where appropriate. Examination and testing of samples shall assure that the drug product and in-process material con- form to specifications.
+(c) In-process materials shall be test- ed for identity, strength, quality, and purity as appropriate, and approved or rejected by the quality control unit, during the production process, e.g., at commencement or completion of sig- nificant phases or after storage for long periods.
+(d) Rejected in-process materials shall be identified and controlled under a quarantine system designed to pre- vent their use in manufacturing or
+§ 211.122
+processing operations for which they are unsuitable.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008]
+§211.111 Time limitations on produc- tion.
+When appropriate, time limits for the completion of each phase of production shall be established to assure the qual- ity of the drug product. Deviation from established time limits may be accept- able if such deviation does not com- promise the quality of the drug prod- uct. Such deviation shall be justified and documented.
+§211.113 Control of microbiological contamination.
+(a) Appropriate written procedures, designed to prevent objectionable microorganisms in drug products not required to be sterile, shall be estab- lished and followed.
+(b) Appropriate written procedures, designed to prevent microbiological contamination of drug products pur- porting to be sterile, shall be estab- lished and followed. Such procedures shall include validation of all aseptic and sterilization processes.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008]
+§ 211.115 Reprocessing.
+(a) Written procedures shall be estab- lished and followed prescribing a sys- tem for reprocessing batches that do not conform to standards or specifica- tions and the steps to be taken to in- sure that the reprocessed batches will conform with all established standards, specifications, and characteristics.
+(b) Reprocessing shall not be per- formed without the review and ap- proval of the quality control unit.
+Subpart G—Packaging and Labeling Control
+§211.122 Materials examination and usage criteria.
+(a) There shall be written procedures describing in sufficient detail the re- ceipt, identification, storage, handling, sampling, examination, and/or testing of labeling and packaging materials;
+167
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00178 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.125
+such written procedures shall be fol- lowed. Labeling and packaging mate- rials shall be representatively sampled, and examined or tested upon receipt and before use in packaging or labeling of a drug product.
+(b) Any labeling or packaging mate- rials meeting appropriate written spec- ifications may be approved and re- leased for use. Any labeling or pack- aging materials that do not meet such specifications shall be rejected to pre- vent their use in operations for which they are unsuitable.
+(c) Records shall be maintained for each shipment received of each dif- ferent labeling and packaging material indicating receipt, examination or testing, and whether accepted or re- jected.
+(d) Labels and other labeling mate- rials for each different drug product, strength, dosage form, or quantity of contents shall be stored separately with suitable identification. Access to the storage area shall be limited to au- thorized personnel.
+(e) Obsolete and outdated labels, la- beling, and other packaging materials shall be destroyed.
+(f) Use of gang-printed labeling for different drug products, or different strengths or net contents of the same drug product, is prohibited unless the labeling from gang-printed sheets is adequately differentiated by size, shape, or color.
+(g) If cut labeling is used for imme- diate container labels, individual unit cartons, or multiunit cartons con- taining immediate containers that are not packaged in individual unit car- tons, packaging and labeling oper- ations shall include one of the fol- lowing special control procedures:
+(1) Dedication of labeling and pack- aging lines to each different strength of each different drug product;
+(2) Use of appropriate electronic or electromechanical equipment to con- duct a 100-percent examination for cor- rect labeling during or after comple- tion of finishing operations; or
+(3) Use of visual inspection to con- duct a 100-percent examination for cor- rect labeling during or after comple- tion of finishing operations for hand- applied labeling. Such examination shall be performed by one person and
+21 CFR Ch. I (4–1–22 Edition)
+independently verified by a second per- son.
+(4) Use of any automated technique, including differentiation by labeling size and shape, that physically pre- vents incorrect labeling from being processed by labeling and packaging equipment.
+(h) Printing devices on, or associated with, manufacturing lines used to im- print labeling upon the drug product unit label or case shall be monitored to assure that all imprinting conforms to the print specified in the batch produc- tion record.
+[43 FR 45077, Sept. 29, 1978, as amended at 58 FR 41353, Aug. 3, 1993; 77 FR 16163, Mar. 20, 2012]
+§ 211.125 Labeling issuance.
+(a) Strict control shall be exercised over labeling issued for use in drug product labeling operations.
+(b) Labeling materials issued for a batch shall be carefully examined for identity and conformity to the labeling specified in the master or batch pro- duction records.
+(c) Procedures shall be used to rec- oncile the quantities of labeling issued, used, and returned, and shall require evaluation of discrepancies found be- tween the quantity of drug product fin- ished and the quantity of labeling issued when such discrepancies are out- side narrow preset limits based on his- torical operating data. Such discrep- ancies shall be investigated in accord- ance with §211.192. Labeling reconcili- ation is waived for cut or roll labeling if a 100-percent examination for correct labeling is performed in accordance with §211.122(g)(2). Labeling reconcili- ation is also waived for 360° wrap- around labels on portable cryogenic medical gas containers.
+(d) All excess labeling bearing lot or control numbers shall be destroyed.
+(e) Returned labeling shall be main- tained and stored in a manner to pre- vent mixups and provide proper identi- fication.
+(f) Procedures shall be written de- scribing in sufficient detail the control procedures employed for the issuance
+168
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00179 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+of labeling; such written procedures shall be followed.
+[43 FR 45077, Sept. 29, 1978, as amended at 58 FR 41354, Aug. 3, 1993; 81 FR 81697, Nov. 18, 2016]
+§211.130 Packaging and labeling oper- ations.
+There shall be written procedures de- signed to assure that correct labels, la- beling, and packaging materials are used for drug products; such written procedures shall be followed. These procedures shall incorporate the fol- lowing features:
+(a) Prevention of mixups and cross- contamination by physical or spatial separation from operations on other drug products.
+(b) Identification and handling of filled drug product containers that are set aside and held in unlabeled condi- tion for future labeling operations to preclude mislabeling of individual con- tainers, lots, or portions of lots. Identi- fication need not be applied to each in- dividual container but shall be suffi- cient to determine name, strength, quantity of contents, and lot or control number of each container.
+(c) Identification of the drug product with a lot or control number that per- mits determination of the history of the manufacture and control of the batch.
+(d) Examination of packaging and la- beling materials for suitability and correctness before packaging oper- ations, and documentation of such ex- amination in the batch production record.
+(e) Inspection of the packaging and labeling facilities immediately before use to assure that all drug products have been removed from previous oper- ations. Inspection shall also be made to assure that packaging and labeling ma- terials not suitable for subsequent op- erations have been removed. Results of inspection shall be documented in the batch production records.
+[43 FR 45077, Sept. 29, 1978, as amended at 58 FR 41354, Aug. 3, 1993]
+§211.132 Tamper-evident packaging requirements for over-the-counter (OTC) human drug products.
+(a) General. The Food and Drug Ad- ministration has the authority under
+§ 211.132
+the Federal Food, Drug, and Cosmetic Act (the act) to establish a uniform na- tional requirement for tamper-evident packaging of OTC drug products that will improve the security of OTC drug packaging and help assure the safety and effectiveness of OTC drug products. An OTC drug product (except a der- matological, dentifrice, insulin, or loz- enge product) for retail sale that is not packaged in a tamper-resistant pack- age or that is not properly labeled under this section is adulterated under section 501 of the act or misbranded under section 502 of the act, or both.
+(b) Requirements for tamper-evident package. (1) Each manufacturer and packer who packages an OTC drug product (except a dermatological, den- tifrice, insulin, or lozenge product) for retail sale shall package the product in a tamper-evident package, if this prod- uct is accessible to the public while held for sale. A tamper-evident pack- age is one having one or more indica- tors or barriers to entry which, if breached or missing, can reasonably be expected to provide visible evidence to consumers that tampering has oc- curred. To reduce the likelihood of suc- cessful tampering and to increase the likelihood that consumers will discover if a product has been tampered with, the package is required to be distinc- tive by design or by the use of one or more indicators or barriers to entry that employ an identifying char- acteristic (e.g., a pattern, name, reg- istered trademark, logo, or picture). For purposes of this section, the term ‘‘distinctive by design’’ means the packaging cannot be duplicated with commonly available materials or through commonly available processes. A tamper-evident package may involve an immediate-container and closure system or secondary-container or car- ton system or any combination of sys- tems intended to provide a visual indi- cation of package integrity. The tam- per-evident feature shall be designed to and shall remain intact when handled in a reasonable manner during manu- facture, distribution, and retail dis- play.
+(2) In addition to the tamper-evident packaging feature described in para- graph (b)(1) of this section, any two- piece, hard gelatin capsule covered by
+169
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00180 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.134
+this section must be sealed using an ac- ceptable tamper-evident technology.
+(c) Labeling. (1) In order to alert con- sumers to the specific tamper-evident feature(s) used, each retail package of an OTC drug product covered by this section (except ammonia inhalant in crushable glass ampules, containers of compressed medical oxygen, or aerosol products that depend upon the power of a liquefied or compressed gas to expel the contents from the container) is re- quired to bear a statement that:
+(i) Identifies all tamper-evident fea- ture(s) and any capsule sealing tech- nologies used to comply with para- graph (b) of this section;
+(ii) Is prominently placed on the package; and
+(iii) Is so placed that it will be unaf- fected if the tamper-evident feature of the package is breached or missing.
+(2) If the tamper-evident feature cho- sen to meet the requirements in para- graph (b) of this section uses an identi- fying characteristic, that char- acteristic is required to be referred to in the labeling statement. For exam- ple, the labeling statement on a bottle with a shrink band could say ‘‘For your protection, this bottle has an im- printed seal around the neck.’’
+(d) Request for exemptions from pack- aging and labeling requirements. A man- ufacturer or packer may request an ex- emption from the packaging and label- ing requirements of this section. A re- quest for an exemption is required to be submitted in the form of a citizen petition under §10.30 of this chapter and should be clearly identified on the envelope as a ‘‘Request for Exemption from the Tamper-Evident Packaging Rule.’’ The petition is required to con- tain the following:
+(1) The name of the drug product or, if the petition seeks an exemption for a drug class, the name of the drug class, and a list of products within that class.
+(2) The reasons that the drug prod- uct’s compliance with the tamper-evi- dent packaging or labeling require- ments of this section is unnecessary or cannot be achieved.
+(3) A description of alternative steps that are available, or that the peti- tioner has already taken, to reduce the likelihood that the product or drug
+21 CFR Ch. I (4–1–22 Edition)
+class will be the subject of malicious adulteration.
+(4) Other information justifying an exemption.
+(e) OTC drug products subject to ap- proved new drug applications. Holders of approved new drug applications for OTC drug products are required under §314.70 of this chapter to provide the agency with notification of changes in packaging and labeling to comply with the requirements of this section. Changes in packaging and labeling re- quired by this regulation may be made before FDA approval, as provided under §314.70(c) of this chapter. Manufac- turing changes by which capsules are to be sealed require prior FDA approval under § 314.70(b) of this chapter.
+(f) Poison Prevention Packaging Act of 1970. This section does not affect any requirements for ‘‘special packaging’’ as defined under §310.3(l) of this chap- ter and required under the Poison Pre- vention Packaging Act of 1970.
+(Approved by the Office of Management and Budget under OMB control number 0910–0149)
+[54 FR 5228, Feb. 2, 1989, as amended at 63 FR 59470, Nov. 4, 1998]
+§ 211.134 Drug product inspection.
+(a) Packaged and labeled products shall be examined during finishing op- erations to provide assurance that con- tainers and packages in the lot have the correct label.
+(b) A representative sample of units shall be collected at the completion of finishing operations and shall be vis- ually examined for correct labeling.
+(c) Results of these examinations shall be recorded in the batch produc- tion or control records.
+§ 211.137 Expiration dating.
+(a) To assure that a drug product meets applicable standards of identity, strength, quality, and purity at the time of use, it shall bear an expiration date determined by appropriate sta- bility testing described in § 211.166.
+(b) Expiration dates shall be related to any storage conditions stated on the labeling, as determined by stability studies described in § 211.166.
+(c) If the drug product is to be recon- stituted at the time of dispensing, its
+170
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00181 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+labeling shall bear expiration informa- tion for both the reconstituted and unreconstituted drug products.
+(d) Expiration dates shall appear on labeling in accordance with the re- quirements of § 201.17 of this chapter.
+(e) Homeopathic drug products shall be exempt from the requirements of this section.
+(f) Allergenic extracts that are la- beled ‘‘No U.S. Standard of Potency’’ are exempt from the requirements of this section.
+(g) New drug products for investiga- tional use are exempt from the require- ments of this section, provided that they meet appropriate standards or specifications as demonstrated by sta- bility studies during their use in clin- ical investigations. Where new drug products for investigational use are to be reconstituted at the time of dis- pensing, their labeling shall bear expi- ration information for the reconsti- tuted drug product.
+(h) Pending consideration of a pro- posed exemption, published in the FED- ERAL REGISTER of September 29, 1978, the requirements in this section shall not be enforced for human OTC drug products if their labeling does not bear dosage limitations and they are stable for at least 3 years as supported by ap- propriate stability data.
+[43 FR 45077, Sept. 29, 1978, as amended at 46 FR 56412, Nov. 17, 1981; 60 FR 4091, Jan. 20, 1995]
+Subpart H—Holding and Distribution
+§ 211.160
+tribution of drug products. They shall include:
+(a) A procedure whereby the oldest approved stock of a drug product is dis- tributed first. Deviation from this re- quirement is permitted if such devi- ation is temporary and appropriate.
+(b) A system by which the distribu- tion of each lot of drug product can be readily determined to facilitate its re- call if necessary.
+Subpart I—Laboratory Controls
+§ 211.160 General requirements.
+(a) The establishment of any speci- fications, standards, sampling plans, test procedures, or other laboratory control mechanisms required by this subpart, including any change in such specifications, standards, sampling plans, test procedures, or other labora- tory control mechanisms, shall be drafted by the appropriate organiza- tional unit and reviewed and approved by the quality control unit. The re- quirements in this subpart shall be fol- lowed and shall be documented at the time of performance. Any deviation from the written specifications, stand- ards, sampling plans, test procedures, or other laboratory control mecha- nisms shall be recorded and justified.
+(b) Laboratory controls shall include the establishment of scientifically sound and appropriate specifications, standards, sampling plans, and test procedures designed to assure that components, drug product containers, closures, in-process materials, labeling, and drug products conform to appro- priate standards of identity, strength, quality, and purity. Laboratory con- trols shall include:
+(1) Determination of conformity to applicable written specifications for the acceptance of each lot within each shipment of components, drug product containers, closures, and labeling used in the manufacture, processing, pack- ing, or holding of drug products. The specifications shall include a descrip- tion of the sampling and testing proce- dures used. Samples shall be represent- ative and adequately identified. Such procedures shall also require appro- priate retesting of any component, drug product container, or closure that is subject to deterioration.
+§ 211.142
+Warehousing procedures.
+Written procedures describing the warehousing of drug products shall be established and followed. They shall in- clude:
+(a) Quarantine of drug products be- fore release by the quality control unit.
+(b) Storage of drug products under appropriate conditions of temperature, humidity, and light so that the iden- tity, strength, quality, and purity of the drug products are not affected.
+§ 211.150 Distribution procedures.
+Written procedures shall be estab- lished, and followed, describing the dis-
+171
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00182 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.165
+(2) Determination of conformance to written specifications and a descrip- tion of sampling and testing procedures for in-process materials. Such samples shall be representative and properly identified.
+(3) Determination of conformance to written descriptions of sampling proce- dures and appropriate specifications for drug products. Such samples shall be representative and properly identi- fied.
+(4) The calibration of instruments, apparatus, gauges, and recording de- vices at suitable intervals in accord- ance with an established written pro- gram containing specific directions, schedules, limits for accuracy and pre- cision, and provisions for remedial ac- tion in the event accuracy and/or preci- sion limits are not met. Instruments, apparatus, gauges, and recording de- vices not meeting established specifica- tions shall not be used.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51932, Sept. 8, 2008]
+§211.165 Testing and release for dis- tribution.
+(a) For each batch of drug product, there shall be appropriate laboratory determination of satisfactory conform- ance to final specifications for the drug product, including the identity and strength of each active ingredient, prior to release. Where sterility and/or pyrogen testing are conducted on spe- cific batches of shortlived radio- pharmaceuticals, such batches may be released prior to completion of ste- rility and/or pyrogen testing, provided such testing is completed as soon as possible.
+(b) There shall be appropriate labora- tory testing, as necessary, of each batch of drug product required to be free of objectionable microorganisms.
+(c) Any sampling and testing plans shall be described in written proce- dures that shall include the method of sampling and the number of units per batch to be tested; such written proce- dure shall be followed.
+(d) Acceptance criteria for the sam- pling and testing conducted by the quality control unit shall be adequate to assure that batches of drug products meet each appropriate specification and appropriate statistical quality con-
+21 CFR Ch. I (4–1–22 Edition)
+trol criteria as a condition for their ap- proval and release. The statistical quality control criteria shall include appropriate acceptance levels and/or appropriate rejection levels.
+(e) The accuracy, sensitivity, speci- ficity, and reproducibility of test methods employed by the firm shall be established and documented. Such vali- dation and documentation may be ac- complished in accordance with § 211.194(a)(2).
+(f) Drug products failing to meet es- tablished standards or specifications and any other relevant quality control criteria shall be rejected. Reprocessing may be performed. Prior to acceptance and use, reprocessed material must meet appropriate standards, specifica- tions, and any other relevant criteria.
+§ 211.166 Stability testing.
+(a) There shall be a written testing program designed to assess the sta- bility characteristics of drug products. The results of such stability testing shall be used in determining appro- priate storage conditions and expira- tion dates. The written program shall be followed and shall include:
+(1) Sample size and test intervals based on statistical criteria for each attribute examined to assure valid esti- mates of stability;
+(2) Storage conditions for samples re- tained for testing;
+(3) Reliable, meaningful, and specific test methods;
+(4) Testing of the drug product in the same container-closure system as that in which the drug product is marketed;
+(5) Testing of drug products for re- constitution at the time of dispensing (as directed in the labeling) as well as after they are reconstituted.
+(b) An adequate number of batches of each drug product shall be tested to de- termine an appropriate expiration date and a record of such data shall be maintained. Accelerated studies, com- bined with basic stability information on the components, drug products, and container-closure system, may be used to support tentative expiration dates provided full shelf life studies are not available and are being conducted. Where data from accelerated studies
+172
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00183 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+are used to project a tentative expira- tion date that is beyond a date sup- ported by actual shelf life studies, there must be stability studies con- ducted, including drug product testing at appropriate intervals, until the ten- tative expiration date is verified or the appropriate expiration date deter- mined.
+(c) For homeopathic drug products, the requirements of this section are as follows:
+(1) There shall be a written assess- ment of stability based at least on test- ing or examination of the drug product for compatibility of the ingredients, and based on marketing experience with the drug product to indicate that there is no degradation of the product for the normal or expected period of use.
+(2) Evaluation of stability shall be based on the same container-closure system in which the drug product is being marketed.
+(d) Allergenic extracts that are la- beled ‘‘No U.S. Standard of Potency’’ are exempt from the requirements of this section.
+[43 FR 45077, Sept. 29, 1978, as amended at 46 FR 56412, Nov. 17, 1981]
+§ 211.167 Special testing requirements.
+(a) For each batch of drug product purporting to be sterile and/or pyrogen- free, there shall be appropriate labora- tory testing to determine conformance to such requirements. The test proce- dures shall be in writing and shall be followed.
+(b) For each batch of ophthalmic ointment, there shall be appropriate testing to determine conformance to specifications regarding the presence of foreign particles and harsh or abrasive substances. The test procedures shall be in writing and shall be followed.
+(c) For each batch of controlled-re- lease dosage form, there shall be appro- priate laboratory testing to determine conformance to the specifications for the rate of release of each active ingre- dient. The test procedures shall be in writing and shall be followed.
+§ 211.170 Reserve samples.
+(a) An appropriately identified re- serve sample that is representative of each lot in each shipment of each ac-
+§ 211.170
+tive ingredient shall be retained. The reserve sample consists of at least twice the quantity necessary for all tests required to determine whether the active ingredient meets its estab- lished specifications, except for ste- rility and pyrogen testing. The reten- tion time is as follows:
+(1) For an active ingredient in a drug product other than those described in paragraphs (a) (2) and (3) of this sec- tion, the reserve sample shall be re- tained for 1 year after the expiration date of the last lot of the drug product containing the active ingredient.
+(2) For an active ingredient in a ra- dioactive drug product, except for non- radioactive reagent kits, the reserve sample shall be retained for:
+(i) Three months after the expiration date of the last lot of the drug product containing the active ingredient if the expiration dating period of the drug product is 30 days or less; or
+(ii) Six months after the expiration date of the last lot of the drug product containing the active ingredient if the expiration dating period of the drug product is more than 30 days.
+(3) For an active ingredient in an OTC drug product that is exempt from bearing an expiration date under § 211.137, the reserve sample shall be re- tained for 3 years after distribution of the last lot of the drug product con- taining the active ingredient.
+(b) An appropriately identified re- serve sample that is representative of each lot or batch of drug product shall be retained and stored under conditions consistent with product labeling. The reserve sample shall be stored in the same immediate container-closure sys- tem in which the drug product is mar- keted or in one that has essentially the same characteristics. The reserve sam- ple consists of at least twice the quan- tity necessary to perform all the re- quired tests, except those for sterility and pyrogens. Except for those for drug products described in paragraph (b)(2) of this section, reserve samples from representative sample lots or batches selected by acceptable statistical pro- cedures shall be examined visually at least once a year for evidence of dete- rioration unless visual examination would affect the integrity of the re- serve sample. Any evidence of reserve
+173
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00184 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.173
+sample deterioration shall be inves- tigated in accordance with §211.192. The results of the examination shall be recorded and maintained with other stability data on the drug product. Re- serve samples of compressed medical gases need not be retained. The reten- tion time is as follows:
+(1) For a drug product other than those described in paragraphs (b) (2) and (3) of this section, the reserve sam- ple shall be retained for 1 year after the expiration date of the drug prod- uct.
+(2) For a radioactive drug product, except for nonradioactive reagent kits, the reserve sample shall be retained for:
+(i) Three months after the expiration date of the drug product if the expira- tion dating period of the drug product is 30 days or less; or
+(ii) Six months after the expiration date of the drug product if the expira- tion dating period of the drug product is more than 30 days.
+(3) For an OTC drug product that is exempt for bearing an expiration date under § 211.137, the reserve sample must be retained for 3 years after the lot or batch of drug product is distributed.
+[48 FR 13025, Mar. 29, 1983, as amended at 60 FR 4091, Jan. 20, 1995]
+§ 211.173 Laboratory animals.
+Animals used in testing components, in-process materials, or drug products for compliance with established speci- fications shall be maintained and con- trolled in a manner that assures their suitability for their intended use. They shall be identified, and adequate records shall be maintained showing the history of their use.
+§ 211.176 Penicillin contamination.
+If a reasonable possibility exists that a non-penicillin drug product has been exposed to cross-contamination with penicillin, the non-penicillin drug prod- uct shall be tested for the presence of penicillin. Such drug product shall not be marketed if detectable levels are found when tested according to proce- dures specified in ‘Procedures for De- tecting and Measuring Penicillin Con- tamination in Drugs,’ which is incor- porated by reference. Copies are avail- able from the Division of Research and
+21 CFR Ch. I (4–1–22 Edition)
+Testing (HFD–470), Center for Drug Evaluation and Research, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741– 6030, or go to: http://www.archives.gov/ federal_register/ code_of_federal_regulations/ ibr_locations.html.
+[43 FR 45077, Sept. 29, 1978, as amended at 47 FR 9396, Mar. 5, 1982; 50 FR 8996, Mar. 6, 1985; 55 FR 11577, Mar. 29, 1990; 66 FR 56035, Nov. 6, 2001; 69 FR 18803, Apr. 9, 2004; 81 FR 49897, July 29, 2016]
+Subpart J—Records and Reports
+§ 211.180 General requirements.
+(a) Any production, control, or dis- tribution record that is required to be maintained in compliance with this part and is specifically associated with a batch of a drug product shall be re- tained for at least 1 year after the expi- ration date of the batch or, in the case of certain OTC drug products lacking expiration dating because they meet the criteria for exemption under §211.137, 3 years after distribution of the batch.
+(b) Records shall be maintained for all components, drug product con- tainers, closures, and labeling for at least 1 year after the expiration date or, in the case of certain OTC drug products lacking expiration dating be- cause they meet the criteria for exemp- tion under §211.137, 3 years after dis- tribution of the last lot of drug product incorporating the component or using the container, closure, or labeling.
+(c) All records required under this part, or copies of such records, shall be readily available for authorized inspec- tion during the retention period at the establishment where the activities de- scribed in such records occurred. These records or copies thereof shall be sub- ject to photocopying or other means of reproduction as part of such inspec- tion. Records that can be immediately retrieved from another location by computer or other electronic means shall be considered as meeting the re- quirements of this paragraph.
+174
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00185 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+(d) Records required under this part may be retained either as original records or as true copies such as photo- copies, microfilm, microfiche, or other accurate reproductions of the original records. Where reduction techniques, such as microfilming, are used, suit- able reader and photocopying equip- ment shall be readily available.
+(e) Written records required by this part shall be maintained so that data therein can be used for evaluating, at least annually, the quality standards of each drug product to determine the need for changes in drug product speci- fications or manufacturing or control procedures. Written procedures shall be established and followed for such eval- uations and shall include provisions for:
+(1) A review of a representative num- ber of batches, whether approved or re- jected, and, where applicable, records associated with the batch.
+(2) A review of complaints, recalls, returned or salvaged drug products, and investigations conducted under § 211.192 for each drug product.
+(f) Procedures shall be established to assure that the responsible officials of the firm, if they are not personally in- volved in or immediately aware of such actions, are notified in writing of any investigations conducted under §§ 211.198, 211.204, or 211.208 of these reg- ulations, any recalls, reports of inspectional observations issued by the Food and Drug Administration, or any regulatory actions relating to good manufacturing practices brought by the Food and Drug Administration.
+[43 FR 45077, Sept. 29, 1978, as amended at 60 FR 4091, Jan. 20, 1995]
+§211.182 Equipment cleaning and use log.
+A written record of major equipment cleaning, maintenance (except routine maintenance such as lubrication and adjustments), and use shall be included in individual equipment logs that show the date, time, product, and lot number of each batch processed. If equipment is dedicated to manufacture of one product, then individual equipment logs are not required, provided that lots or batches of such product follow in numerical order and are manufac- tured in numerical sequence. In cases
+§ 211.184
+where dedicated equipment is em- ployed, the records of cleaning, main- tenance, and use shall be part of the batch record. The persons performing and double-checking the cleaning and maintenance (or, if the cleaning and maintenance is performed using auto- mated equipment under §211.68, just the person verifying the cleaning and maintenance done by the automated equipment) shall date and sign or ini- tial the log indicating that the work was performed. Entries in the log shall be in chronological order.
+[73 FR 51933, Sept. 8, 2008]
+§211.184 Component, drug product container, closure, and labeling records.
+These records shall include the fol- lowing:
+(a) The identity and quantity of each shipment of each lot of components, drug product containers, closures, and labeling; the name of the supplier; the supplier’s lot number(s) if known; the receiving code as specified in §211.80; and the date of receipt. The name and location of the prime manufacturer, if different from the supplier, shall be listed if known.
+(b) The results of any test or exam- ination performed (including those per- formed as required by §211.82(a), §211.84(d), or §211.122(a)) and the con- clusions derived therefrom.
+(c) An individual inventory record of each component, drug product con- tainer, and closure and, for each com- ponent, a reconciliation of the use of each lot of such component. The inven- tory record shall contain sufficient in- formation to allow determination of any batch or lot of drug product associ- ated with the use of each component, drug product container, and closure.
+(d) Documentation of the examina- tion and review of labels and labeling for conformity with established speci- fications in accord with §§ 211.122(c) and 211.130(c).
+(e) The disposition of rejected compo- nents, drug product containers, clo- sure, and labeling.
+175
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00186 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.186
+§211.186 Master production and con- trol records.
+(a) To assure uniformity from batch to batch, master production and con- trol records for each drug product, in- cluding each batch size thereof, shall be prepared, dated, and signed (full sig- nature, handwritten) by one person and independently checked, dated, and signed by a second person. The prepara- tion of master production and control records shall be described in a written procedure and such written procedure shall be followed.
+(b) Master production and control records shall include:
+(1) The name and strength of the product and a description of the dosage form;
+(2) The name and weight or measure of each active ingredient per dosage unit or per unit of weight or measure of the drug product, and a statement of the total weight or measure of any dos- age unit;
+(3) A complete list of components designated by names or codes suffi- ciently specific to indicate any special quality characteristic;
+(4) An accurate statement of the weight or measure of each component, using the same weight system (metric, avoirdupois, or apothecary) for each component. Reasonable variations may be permitted, however, in the amount of components necessary for the prepa- ration in the dosage form, provided they are justified in the master produc- tion and control records;
+(5) A statement concerning any cal- culated excess of component;
+(6) A statement of theoretical weight or measure at appropriate phases of processing;
+(7) A statement of theoretical yield, including the maximum and minimum percentages of theoretical yield beyond which investigation according to § 211.192 is required;
+(8) A description of the drug product containers, closures, and packaging materials, including a specimen or copy of each label and all other label- ing signed and dated by the person or persons responsible for approval of such labeling;
+(9) Complete manufacturing and con- trol instructions, sampling and testing
+21 CFR Ch. I (4–1–22 Edition)
+procedures, specifications, special no- tations, and precautions to be followed.
+§ 211.188 Batch production and control records.
+Batch production and control records shall be prepared for each batch of drug product produced and shall include complete information relating to the production and control of each batch. These records shall include:
+(a) An accurate reproduction of the appropriate master production or con- trol record, checked for accuracy, dated, and signed;
+(b) Documentation that each signifi- cant step in the manufacture, proc- essing, packing, or holding of the batch was accomplished, including:
+(1) Dates;
+(2) Identity of individual major equipment and lines used;
+(3) Specific identification of each batch of component or in-process mate- rial used;
+(4) Weights and measures of compo- nents used in the course of processing; (5) In-process and laboratory control
+results;
+(6) Inspection of the packaging and
+labeling area before and after use;
+(7) A statement of the actual yield and a statement of the percentage of theoretical yield at appropriate phases
+of processing;
+(8) Complete labeling control records,
+including specimens or copies of all la- beling used;
+(9) Description of drug product con- tainers and closures;
+(10) Any sampling performed;
+(11) Identification of the persons per- forming and directly supervising or checking each significant step in the operation, or if a significant step in the operation is performed by automated equipment under § 211.68, the identifica- tion of the person checking the signifi- cant step performed by the automated equipment.
+(12) Any investigation made accord- ing to § 211.192.
+(13) Results of examinations made in accordance with § 211.134.
+[43 FR 45077, Sept. 29, 1978, as amended at 73 FR 51933, Sept. 8, 2008]
+176
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00187 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+§ 211.192 Production record review.
+All drug product production and con- trol records, including those for pack- aging and labeling, shall be reviewed and approved by the quality control unit to determine compliance with all established, approved written proce- dures before a batch is released or dis- tributed. Any unexplained discrepancy (including a percentage of theoretical yield exceeding the maximum or min- imum percentages established in mas- ter production and control records) or the failure of a batch or any of its com- ponents to meet any of its specifica- tions shall be thoroughly investigated, whether or not the batch has already been distributed. The investigation shall extend to other batches of the same drug product and other drug products that may have been associ- ated with the specific failure or dis- crepancy. A written record of the in- vestigation shall be made and shall in- clude the conclusions and followup.
+§ 211.194 Laboratory records.
+(a) Laboratory records shall include complete data derived from all tests necessary to assure compliance with established specifications and stand- ards, including examinations and as- says, as follows:
+(1) A description of the sample re- ceived for testing with identification of source (that is, location from where sample was obtained), quantity, lot number or other distinctive code, date sample was taken, and date sample was received for testing.
+(2) A statement of each method used in the testing of the sample. The state- ment shall indicate the location of data that establish that the methods used in the testing of the sample meet proper standards of accuracy and reli- ability as applied to the product tested. (If the method employed is in the cur- rent revision of the United States Pharmacopeia, National Formulary, AOAC INTERNATIONAL, Book of Methods, 1 or in other recognized stand- ard references, or is detailed in an ap- proved new drug application and the referenced method is not modified, a
+1Copies may be obtained from: AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877.
+§ 211.194
+statement indicating the method and reference will suffice). The suitability of all testing methods used shall be verified under actual conditions of use.
+(3) A statement of the weight or measure of sample used for each test, where appropriate.
+(4) A complete record of all data se- cured in the course of each test, includ- ing all graphs, charts, and spectra from laboratory instrumentation, properly identified to show the specific compo- nent, drug product container, closure, in-process material, or drug product, and lot tested.
+(5) A record of all calculations per- formed in connection with the test, in- cluding units of measure, conversion factors, and equivalency factors.
+(6) A statement of the results of tests and how the results compare with es- tablished standards of identity, strength, quality, and purity for the component, drug product container, closure, in-process material, or drug product tested.
+(7) The initials or signature of the person who performs each test and the date(s) the tests were performed.
+(8) The initials or signature of a sec- ond person showing that the original records have been reviewed for accu- racy, completeness, and compliance with established standards.
+(b) Complete records shall be main- tained of any modification of an estab- lished method employed in testing. Such records shall include the reason for the modification and data to verify that the modification produced results that are at least as accurate and reli- able for the material being tested as the established method.
+(c) Complete records shall be main- tained of any testing and standardiza- tion of laboratory reference standards, reagents, and standard solutions.
+(d) Complete records shall be main- tained of the periodic calibration of laboratory instruments, apparatus, gauges, and recording devices required by § 211.160(b)(4).
+(e) Complete records shall be main- tained of all stability testing per- formed in accordance with § 211.166.
+[43 FR 45077, Sept. 29, 1978, as amended at 55 FR 11577, Mar. 29, 1990; 65 FR 18889, Apr. 10, 2000; 70 FR 40880, July 15, 2005; 70 FR 67651, Nov. 8, 2005]
+177
+ rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00188 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 211.196
+§ 211.196 Distribution records.
+Distribution records shall contain the name and strength of the product and description of the dosage form, name and address of the consignee, date and quantity shipped, and lot or control number of the drug product. For compressed medical gas products, distribution records are not required to contain lot or control numbers.
+(Approved by the Office of Management and Budget under control number 0910–0139)
+[49 FR 9865, Mar. 16, 1984]
+§ 211.198 Complaint files.
+(a) Written procedures describing the handling of all written and oral com- plaints regarding a drug product shall be established and followed. Such pro- cedures shall include provisions for re- view by the quality control unit, of any complaint involving the possible fail- ure of a drug product to meet any of its specifications and, for such drug prod- ucts, a determination as to the need for an investigation in accordance with §211.192. Such procedures shall include provisions for review to determine whether the complaint represents a se- rious and unexpected adverse drug ex- perience which is required to be re- ported to the Food and Drug Adminis- tration in accordance with §§310.305 and 514.80 of this chapter.
+(b) A written record of each com- plaint shall be maintained in a file des- ignated for drug product complaints. The file regarding such drug product complaints shall be maintained at the establishment where the drug product involved was manufactured, processed, or packed, or such file may be main- tained at another facility if the written records in such files are readily avail- able for inspection at that other facil- ity. Written records involving a drug product shall be maintained until at least 1 year after the expiration date of the drug product, or 1 year after the date that the complaint was received, whichever is longer. In the case of cer- tain OTC drug products lacking expira- tion dating because they meet the cri- teria for exemption under § 211.137, such written records shall be maintained for 3 years after distribution of the drug product.
+21 CFR Ch. I (4–1–22 Edition)
+(1) The written record shall include the following information, where known: the name and strength of the drug product, lot number, name of complainant, nature of complaint, and reply to complainant.
+(2) Where an investigation under §211.192 is conducted, the written record shall include the findings of the investigation and followup. The record or copy of the record of the investiga- tion shall be maintained at the estab- lishment where the investigation oc- curred in accordance with § 211.180(c).
+(3) Where an investigation under §211.192 is not conducted, the written record shall include the reason that an investigation was found not to be nec- essary and the name of the responsible person making such a determination.
+[43 FR 45077, Sept. 29, 1978, as amended at 51 FR 24479, July 3, 1986; 68 FR 15364, Mar. 31, 2003]
+Subpart K—Returned and Salvaged Drug Products
+§ 211.204 Returned drug products.
+Returned drug products shall be iden- tified as such and held. If the condi- tions under which returned drug prod- ucts have been held, stored, or shipped before or during their return, or if the condition of the drug product, its con- tainer, carton, or labeling, as a result of storage or shipping, casts doubt on the safety, identity, strength, quality or purity of the drug product, the re- turned drug product shall be destroyed unless examination, testing, or other investigations prove the drug product meets appropriate standards of safety, identity, strength, quality, or purity. A drug product may be reprocessed pro- vided the subsequent drug product meets appropriate standards, specifica- tions, and characteristics. Records of returned drug products shall be main- tained and shall include the name and label potency of the drug product dos- age form, lot number (or control num- ber or batch number), reason for the re- turn, quantity returned, date of dis- position, and ultimate disposition of the returned drug product. If the rea- son for a drug product being returned
+178
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00189 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+implicates associated batches, an ap- propriate investigation shall be con- ducted in accordance with the require- ments of §211.192. Procedures for the holding, testing, and reprocessing of re- turned drug products shall be in writ- ing and shall be followed.
+§ 211.208 Drug product salvaging.
+Drug products that have been sub- jected to improper storage conditions including extremes in temperature, hu- midity, smoke, fumes, pressure, age, or radiation due to natural disasters, fires, accidents, or equipment failures shall not be salvaged and returned to the marketplace. Whenever there is a question whether drug products have been subjected to such conditions, sal- vaging operations may be conducted only if there is (a) evidence from lab- oratory tests and assays (including ani- mal feeding studies where applicable) that the drug products meet all appli- cable standards of identity, strength, quality, and purity and (b) evidence from inspection of the premises that the drug products and their associated packaging were not subjected to im- proper storage conditions as a result of the disaster or accident. Organoleptic examinations shall be acceptable only as supplemental evidence that the drug products meet appropriate standards of identity, strength, quality, and purity. Records including name, lot number, and disposition shall be maintained for drug products subject to this section.
+PART 212—CURRENT GOOD MAN- UFACTURING PRACTICE FOR POSITRON EMISSION TOMOG- RAPHY DRUGS
+Subpart A—General Provisions
+Sec.
+212.1 What are the meanings of the tech-
+nical terms used in these regulations? 212.2 What is current good manufacturing
+practice for PET drugs?
+212.5 To what drugs do the regulations in
+this part apply?
+Subpart B—Personnel and Resources
+212.10 What personnel and resources must I have?
+Pt. 212 Subpart C—Quality Assurance
+179
+212.20
+sure drug quality?
+What activities must I perform to en-
+Subpart D—Facilities and Equipment
+212.30 What requirements must my facili- ties and equipment meet?
+Subpart E—Control of Components, Containers, and Closures
+212.40 How must I control the components I use to produce PET drugs and the con- tainers and closures I package them in?
+Subpart F—Production and Process Controls
+212.50 What production and process controls must I have?
+Subpart G—Laboratory Controls
+212.60 What requirements apply to the lab- oratories where I test components, in- process materials, and finished PET drug products?
+212.61 What must I do to ensure the sta- bility of my PET drug products through expiry?
+Subpart H—Finished Drug Product Controls and Acceptance Criteria
+212.70 What controls and acceptance cri- teria must I have for my finished PET drug products?
+212.71 What actions must I take if a batch of PET drug product does not conform to specifications?
+Subpart I—Packaging and Labeling
+212.80 What are the requirements associated with labeling and packaging PET drug products?
+Subpart J—Distribution
+212.90 What actions must I take to control the distribution of PET drug products?
+Subpart K—Complaint Handling
+212.100 What do I do if I receive a complaint about a PET drug product produced at my facility?
+Subpart L—Records
+212.110 How must I maintain records of my production of PET drugs?
+AUTHORITY: 21 U.S.C. 321, 351, 352, 355, 371, 374; Sec. 121, Pub. L. 105–115, 111 Stat. 2296.
+SOURCE: 74 FR 65431, Dec. 10, 2009, unless otherwise noted.
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00190 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 212.1
+Subpart A—General Provisions
+§212.1 What are the meanings of the technical terms used in these regu- lations?
+The following definitions apply to words and phrases as they are used in this part. Other definitions of these words may apply when they are used in other parts of this chapter.
+Acceptance criteria means numerical limits, ranges, or other criteria for tests that are used for or in making a decision to accept or reject a unit, lot, or batch of a PET drug product.
+Act means the Federal Food, Drug, and Cosmetic Act, as amended (21 U.S.C. 321 et seq.).
+Active pharmaceutical ingredient
+means a substance that is intended for incorporation into a finished PET drug product and is intended to furnish pharmacological activity or other di- rect effect in the diagnosis or moni- toring of a disease or a manifestation of a disease in humans, but does not in- clude intermediates used in the syn- thesis of such substance.
+Batch means a specific quantity of PET drug intended to have uniform character and quality, within specified limits, that is produced according to a single production order during the same cycle of production.
+Batch production and control record
+means a unique record that references an accepted master production and control record and documents specific details on production, labeling, and quality control for a single batch of a PET drug.
+Component means any ingredient in- tended for use in the production of a PET drug, including any ingredients that may not appear in the final PET drug product.
+Conditional final release means a final release made prior to completion of a required finished-product test because of a malfunction involving analytical equipment.
+Final release means the authoritative decision by a responsible person in a PET production facility to permit the use of a batch of a PET drug in hu- mans.
+Inactive ingredient means any in- tended component of the PET drug
+21 CFR Ch. I (4–1–22 Edition)
+other than the active pharmaceutical ingredient.
+In-process material means any mate- rial fabricated, compounded, blended, or derived by chemical reaction that is produced for, and is used in, the prepa- ration of a PET drug.
+Lot means a batch, or a specifically identified portion of a batch, having uniform character and quality within specified limits. In the case of a PET drug produced by continuous process, a lot is a specifically identified amount produced in a unit of time or quantity in a manner that ensures its having uniform character and quality within specified limits.
+Lot number, control number, or batch number means any distinctive combina- tion of letters, numbers, or symbols from which the complete history of the production, processing, packing, hold- ing, and distribution of a batch or lot of a PET drug can be determined.
+Master production and control record
+means a compilation of instructions containing the procedures and speci- fications for the production of a PET drug.
+Material release means the authori- tative decision by a responsible person in a PET production facility to permit the use of a component, container and closure, in-process material, packaging material, or labeling in the production of a PET drug.
+PET means positron emission tomog- raphy.
+PET drug means a radioactive drug that exhibits spontaneous disintegra- tion of unstable nuclei by the emission of positrons and is used for providing dual photon positron emission tomo- graphic diagnostic images. The defini- tion includes any nonradioactive rea- gent, reagent kit, ingredient, nuclide generator, accelerator, target mate- rial, electronic synthesizer, or other apparatus or computer program to be used in the preparation of a PET drug. ‘‘PET drug’’ includes a ‘‘PET drug product’’ as defined in this section.
+PET drug product means a finished dosage form of a PET drug, whether or not in association with one or more other ingredients.
+PET drug production facility means a facility that is engaged in the produc- tion of a PET drug.
+180
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00191 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+Production means the manufacturing, compounding, processing, packaging, labeling, reprocessing, repacking, re- labeling, and testing of a PET drug.
+Quality assurance means a system for ensuring the quality of active ingredi- ents, PET drugs, intermediates, compo- nents that yield an active pharma- ceutical ingredient, analytical sup- plies, and other components, including container-closure systems and in-proc- ess materials, through procedures, tests, analytical methods, and accept- ance criteria.
+Receiving facility means any hospital, institution, nuclear pharmacy, imaging facility, or other entity or part of an entity that accepts a PET drug product that has been given final release, but does not include a common or contract carrier that transports a PET drug product from a PET production facility to a receiving facility.
+Specifications means the tests, analyt- ical procedures, and appropriate ac- ceptance criteria to which a PET drug, PET drug product, component, con- tainer-closure system, in-process mate- rial, or other material used in PET drug production must conform to be considered acceptable for its intended use. Conformance to specifications means that a PET drug, PET drug product, component, container-closure system, in-process material, or other material used in PET drug production, when tested according to the described analytical procedures, meets the listed acceptance criteria.
+Strength means the concentration of the active pharmaceutical ingredient (radioactivity amount per volume or weight at the time of calibration).
+Sub-batch means a quantity of PET drug having uniform character and quality, within specified limits, that is produced during one succession of mul- tiple irradiations, using a given syn- thesis and/or purification operation.
+Verification means confirmation that an established method, process, or sys- tem meets predetermined acceptance criteria.
+§212.2 What is current good manufac- turing practice for PET drugs?
+Current good manufacturing practice for PET drugs is the minimum require- ments for the methods to be used in,
+§ 212.5
+and the facilities and controls used for, the production, quality assurance, holding, or distribution of PET drugs intended for human use. Current good manufacturing practice is intended to ensure that each PET drug meets the requirements of the act as to safety and has the identity and strength, and meets the quality and purity charac- teristics, that it is supposed to have.
+§212.5 To what drugs do the regula- tions in this part apply?
+(a) Application solely to PET drugs. The regulations in this part apply only to the production, quality assurance, holding, and distribution of PET drugs. Any human drug that does not meet the definition of a PET drug must be manufactured in accordance with the current good manufacturing practice requirements in parts 210 and 211 of this chapter.
+(b) Investigational and research PET drugs. For investigational PET drugs for human use produced under an in- vestigational new drug application in accordance with part 312 of this chap- ter, and PET drugs produced with the approval of a Radioactive Drug Re- search Committee in accordance with part 361 of this chapter, the require- ment under the act to follow current good manufacturing practice is met by complying with the regulations in this part or by producing PET drugs in ac- cordance with Chapter 823, ‘‘Radio- pharmaceuticals for Positron Emission Tomography—Compounding,’’ May 1, 2009, pp. 365–369, 32d ed. of the United States Pharmacopeia (USP) National Formulary (NF) (USP 32/NF 27) (2009). The Director of the Federal Register approves this incorporation by ref- erence in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may ob- tain a copy from the United States Pharmacopeial Convention, Inc., 12601 Twinbrook Pkwy., Rockville, MD 20852, Geeta M. Tirumalai, 301–816–8352, e- mail: gt@usp.org, Internet address: http://www.usp.org/USPNF/notices. You may inspect a copy at the Food and Drug Administration Biosciences Li- brary, 10903 New Hampshire Ave., Sil- ver Spring, MD, 20993–0002, 301–796–3504, or at the National Archives and Records Administration (NARA). For information on the availability of this
+181
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00192 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 212.10
+material at NARA, call 202–741–6030, or go to http://www.archives.gov/fed- eral_register/code_of_federal_regulations/ ibr_locations.html.
+Subpart B—Personnel and Resources
+§212.10 What personnel and resources must I have?
+You must have a sufficient number of personnel with the necessary edu- cation, background, training, and expe- rience to perform their assigned func- tions. You must have adequate re- sources, including facilities and equip- ment, to enable your personnel to per- form their functions.
+Subpart C—Quality Assurance
+§ 212.20 What activities must I perform to ensure drug quality?
+(a) Production operations. You must oversee production operations to en- sure that each PET drug meets the re- quirements of the act as to safety and has the identity and strength, and meets the quality and purity charac- teristics, that it is supposed to have.
+(b) Materials. You must examine and approve or reject components, con- tainers, closures, in-process materials, packaging materials, labeling, and fin- ished dosage forms to ensure compli- ance with procedures and specifica- tions affecting the identity, strength, quality, or purity of a PET drug.
+(c) Specifications and processes. You must approve or reject, before imple- mentation, any initial specifications, methods, processes, or procedures, and any proposed changes to existing speci- fications, methods, processes, or proce- dures, to ensure that they maintain the identity, strength, quality, and pu- rity of a PET drug. You must dem- onstrate that any change does not ad- versely affect the identity, strength, quality, or purity of any PET drug.
+(d) Production records. You must re- view production records to determine whether errors have occurred. If errors have occurred, or a production batch or any component of the batch fails to meet any of its specifications, you must determine the need for an inves- tigation, conduct investigations when
+21 CFR Ch. I (4–1–22 Edition)
+necessary, and take appropriate correc- tive actions.
+(e) Quality assurance. You must es- tablish and follow written quality as- surance procedures.
+Subpart D—Facilities and Equipment
+§212.30 What requirements must my facilities and equipment meet?
+(a) Facilities. You must provide ade- quate facilities to ensure the orderly handling of materials and equipment, the prevention of mix-ups, and the pre- vention of contamination of equipment or product by substances, personnel, or environmental conditions that could reasonably be expected to have an ad- verse effect on product quality.
+(b) Equipment procedures. You must implement procedures to ensure that all equipment that could reasonably be expected to adversely affect the iden- tity, strength, quality, or purity of a PET drug, or give erroneous or invalid test results when improperly used or maintained, is clean, suitable for its in- tended purposes, properly installed, maintained, and capable of repeatedly producing valid results. You must doc- ument your activities in accordance with these procedures.
+(c) Equipment construction and mainte- nance. Equipment must be constructed and maintained so that surfaces that contact components, in-process mate- rials, or PET drugs are not reactive, additive, or absorptive so as to alter the quality of PET drugs.
+Subpart E—Control of Compo- nents, Containers, and Clo- sures
+§212.40 How must I control the com- ponents I use to produce PET drugs and the containers and closures I package them in?
+(a) Written procedures. You must es- tablish, maintain, and follow written procedures describing the receipt, login, identification, storage, handling, testing, and acceptance and/or rejec- tion of components and drug product containers and closures. The proce- dures must be adequate to ensure that
+182
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00193 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+the components, containers, and clo- sures are suitable for their intended use.
+(b) Written specifications. You must establish appropriate written specifica- tions for the identity, quality, and pu- rity of components and for the identity and quality of drug product containers and closures.
+(c) Examination and testing. Upon re- ceipt, each lot of components and con- tainers and closures must be uniquely identified and tested or examined to determine whether the lot complies with your specifications. You must not use in PET drug production any lot that does not meet its specifications, including any expiration date if appli- cable, or that has not yet received its material release. Any incoming lot must be appropriately designated as quarantined, accepted, or rejected. You must use a reliable supplier as a source of each lot of each component, con- tainer, and closure.
+(1)(i) If you conduct finished-product testing of a PET drug product that in- cludes testing to ensure that the cor- rect components have been used, you must determine that each lot of incom- ing components used in that PET drug product complies with written speci- fications by examining a certificate of analysis provided by the supplier. You are not required to perform a specific identity test on any of those compo- nents.
+(ii) If you do not conduct finished- product testing of a PET drug product that ensures that the correct compo- nents have been used, you must con- duct identity testing on each lot of a component that yields an active ingre- dient and each lot of an inactive ingre- dient used in that PET drug product. This testing must be conducted using tests that are specific to each compo- nent that yields an active ingredient and each inactive ingredient. For any other component, such as a solvent or reagent, that is not the subject of fin- ished-product testing, you must deter- mine that each lot complies with writ- ten specifications by examining a cer- tificate of analysis provided by the sup- plier; if you use such a component to prepare an inactive ingredient on site, you must perform an identity test on the components used to make the inac-
+§ 212.50
+tive ingredient before the components are released for use. However, if you use as an inactive ingredient a product that is approved under section 505 of the act (21 U.S.C. 355) and is marketed as a finished drug product intended for intravenous administration, you need not perform a specific identity test on that ingredient.
+(2) You must examine a representa- tive sample of each lot of containers and closures for conformity to its writ- ten specifications. You must perform at least a visual identification of each lot of containers and closures.
+(d) Handling and storage. You must handle and store components, con- tainers, and closures in a manner that prevents contamination, mix-ups, and deterioration and ensures that they are and remain suitable for their intended use.
+(e) Records. You must keep a record for each shipment of each lot of compo- nents, containers, and closures that you receive. The record must include the identity and quantity of each ship- ment, the supplier’s name and lot num- ber, the date of receipt, the results of any testing performed, the disposition of rejected material, and the expiration date (where applicable).
+Subpart F—Production and Process Controls
+§212.50 What production and process controls must I have?
+You must have adequate production and process controls to ensure the con- sistent production of a PET drug that meets the applicable standards of iden- tity, strength, quality, and purity.
+(a) Written control procedures. You must have written production and process control procedures to ensure and document that all key process pa- rameters are controlled and that any deviations from the procedures are jus- tified.
+(b) Master production and control records. You must have master produc- tion and control records that document all steps in the PET drug production process. The master production and control records must include the fol- lowing information:
+(1) The name and strength of the PET drug;
+183
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00194 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 212.50
+(2) If applicable, the name and radio- activity or other measurement of each active pharmaceutical ingredient and each inactive ingredient per batch or per unit of radioactivity or other meas- urement of the drug product, and a statement of the total radioactivity or other measurement of any dosage unit;
+(3) A complete list of components designated by names and codes suffi- ciently specific to indicate any special quality characteristic;
+(4) Identification of all major pieces of equipment used in production;
+(5) An accurate statement of the weight or measurement of each compo- nent, using the same weight system (metric, avoirdupois, or apothecary) for each component. Reasonable variations are permitted in the amount of compo- nent necessary if they are specified in the master production and control records;
+(6) A statement of action limits on radiochemical yield, i.e., the minimum percentage of yield beyond which in- vestigation and corrective action are required;
+(7) Complete production and control instructions, sampling and testing pro- cedures, specifications, special nota- tions, and precautions to be followed; and
+(8) A description of the PET drug product containers, closures, and pack- aging materials, including a specimen or copy of each label and all other la- beling.
+(c) Batch production and control records. Each time a batch of a PET drug is produced, a unique batch pro- duction and control record must be cre- ated. The batch production record must include the following informa- tion:
+(1) Name and strength of the PET drug;
+(2) Identification number or other unique identifier of the specific batch that was produced;
+(3) The name and radioactivity or other measure of each active pharma- ceutical ingredient and each inactive ingredient per batch or per unit of ra- dioactivity or other measurement of the drug product;
+(4) Each major production step (ob- tained from the approved appropriate master production and control record);
+21 CFR Ch. I (4–1–22 Edition)
+(5) Weights (or other measure of quantity) and identification codes of components;
+(6) Dates of production steps and times of critical production steps;
+(7) Identification of major pieces of equipment used in production of the batch;
+(8) Testing results;
+(9) Labeling;
+(10) Initials or signatures of persons
+performing or checking each signifi- cant step in the operation; and
+(11) Results of any investigations conducted.
+(d) Area and equipment checks. The production area and all equipment in the production area must be checked to ensure cleanliness and suitability im- mediately before use. A record of these checks must be kept.
+(e) In-process materials controls. Proc- ess controls must include control of in- process materials to ensure that the materials are controlled until required tests or other verification activities have been completed or necessary ap- provals are received and documented.
+(f) Process verification. (1) For a PET drug for which each entire batch under- goes full finished-product testing to en- sure that the product meets all speci- fications, process verification, as de- scribed in paragraph (f)(2) of this sec- tion, is not required.
+(2) When the results of the produc- tion of an entire batch of a PET drug are not fully verified through finished- product testing or when only the ini- tial sub-batch in a series is tested, the PET drug producer must demonstrate that the process for producing the PET drug is reproducible and is capable of producing a drug product that meets the predetermined acceptance criteria. Process verification activities and re- sults must be documented. Documenta- tion must include the date and signa- ture of the individual(s) performing the verification, the monitoring and con- trol methods and data, and the major equipment qualified.
+184
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00195 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS Subpart G—Laboratory Controls
+§212.60 What requirements apply to the laboratories where I test com- ponents, in-process materials, and finished PET drug products?
+(a) Testing procedures. Each labora- tory used to conduct testing of compo- nents, in-process materials, and fin- ished PET drug products must have and follow written procedures for the conduct of each test and for the docu- mentation of the results.
+(b) Specifications and standards. Each laboratory must have sampling and testing procedures designed to ensure that components, in-process materials, and PET drug products conform to ap- propriate standards, including estab- lished standards of identity, strength, quality, and purity.
+(c) Analytical methods. Laboratory an- alytical methods must be suitable for their intended use and must be suffi- ciently sensitive, specific, accurate, and reproducible.
+(d) Materials. The identity, purity, and quality of reagents, solutions, and supplies used in testing procedures must be adequately controlled. All so- lutions that you prepare must be prop- erly labeled to show their identity and expiration date.
+(e) Equipment. All equipment used to perform the testing must be suitable for its intended purposes and capable of producing valid results.
+(f) Equipment maintenance. Each lab- oratory must have and follow written procedures to ensure that equipment is routinely calibrated, inspected, checked, and maintained, and that these activities are documented.
+(g) Test records. Each laboratory per- forming tests related to the production of a PET drug must keep complete records of all tests performed to ensure compliance with established specifica- tions and standards, including exami- nations and assays, as follows:
+(1) A suitable identification of the sample received for testing.
+(2) A description of each method used in the testing of the sample, a record of all calculations performed in connec- tion with each test, and a statement of the weight or measurement of the sam- ple used for each test.
+§ 212.70
+(3) A complete record of all data ob- tained in the course of each test, in- cluding the date and time the test was conducted, and all graphs, charts, and spectra from laboratory instrumenta- tion, properly identified to show the specific component, in-process mate- rial, or drug product for each lot test- ed.
+(4) A statement of the results of tests and how the results compare with es- tablished acceptance criteria.
+(5) The initials or signature of the person performing the test and the date on which the test was performed.
+§212.61 What must I do to ensure the stability of my PET drug products through expiry?
+(a) Stability testing program. You must establish, follow, and maintain a writ- ten testing program to assess the sta- bility characteristics of your PET drug products. The test methods must be re- liable, meaningful, and specific. The samples tested for stability must be representative of the lot or batch from which they were obtained and must be stored under suitable conditions.
+(b) Storage conditions and expiration dates. The results of such stability test- ing must be documented and used in determining appropriate storage condi- tions and expiration dates and times for each PET drug product you produce.
+Subpart H—Finished Drug Product Controls and Acceptance
+§212.70 What controls and acceptance criteria must I have for my finished PET drug products?
+(a) Specifications. You must establish specifications for each PET drug prod- uct, including criteria for determining identity, strength, quality, purity, and, if appropriate, sterility and pyrogens.
+(b) Test procedures. Before you imple- ment a new test procedure in a speci- fication, you must establish and docu- ment the accuracy, sensitivity, speci- ficity, and reproducibility of the proce- dure. If you use an established compendial test procedure in a speci- fication, you must first verify and doc- ument that the test works under the conditions of actual use.
+185
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00196 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 212.71
+(c) Conformance to specifications. Be- fore final release, you must conduct an appropriate laboratory determination to ensure that each batch of a PET drug product conforms to specifica- tions, except for sterility. For a PET drug product produced in sub-batches, before final release, you must conduct an appropriate laboratory determina- tion to ensure that each sub-batch con- forms to specifications, except for ste- rility.
+(d) Final release procedures. Except as conditional final release is permitted in accordance with paragraph (f) of this section, you must establish and follow procedures to ensure that each batch of a PET drug product is not given final release until the following are done:
+(1) An appropriate laboratory deter- mination under paragraph (c) of this section is completed;
+(2) Associated laboratory data and documentation are reviewed and they demonstrate that the PET drug prod- uct meets specifications, except for sterility; and
+(3) A designated qualified individual authorizes final release by dated signa- ture.
+(e) Sterility testing. Sterility testing need not be completed before final re- lease but must be started within 30 hours after completion of production. The 30-hour requirement may be ex- ceeded due to a weekend or holiday. If the sample for sterility testing is held longer than 30 hours, you must dem- onstrate that the longer period does not adversely affect the sample and the test results obtained will be equivalent to test results that would have been obtained if the test had been started within the 30-hour time period. Tested samples must be from individual batches and not pooled. If the product fails to meet a criterion for sterility, you must immediately notify all facili- ties that received the product of the test results and provide any appro- priate recommendations. The notifica- tion must be documented. Upon com- pletion of an investigation into the failure to meet a criterion for sterility, you must notify all facilities that re- ceived the product of the findings from the investigation.
+(f) Conditional final release. (1) If you cannot complete one of the required
+21 CFR Ch. I (4–1–22 Edition)
+finished-product tests for a batch of a PET drug product because of a mal- function involving analytical equip- ment, you may approve the conditional final release of the product if you meet the following conditions:
+(i) You have data documenting that preceding consecutive batches, pro- duced using the same methods used for the conditionally released batch, dem- onstrate that the conditionally re- leased batch will likely meet the estab- lished specifications;
+(ii) You determine that all other ac- ceptance criteria are met;
+(iii) You retain a reserve sample of the conditionally released batch of drug product;
+(iv) You promptly correct the mal- function of analytical equipment, com- plete the omitted test using the reserve sample after the malfunction is cor- rected, and document that reasonable efforts have been made to prevent re- currence of the malfunction;
+(v) If you obtain an out-of-specifica- tion result when testing the reserve sample, you immediately notify the re- ceiving facility; and
+(vi) You document all actions regard- ing the conditional final release of the drug product, including the justifica- tion for the release, all followup ac- tions, results of completed testing, all notifications, and corrective actions to prevent recurrence of the malfunction involving analytical equipment.
+(2) Even if the criteria in paragraph (f)(1) of this section are met, you may not approve the conditional final re- lease of the product if the malfunction involving analytical equipment pre- vents the performance of a radiochemical identity/purity test or prevents the determination of the prod- uct’s specific activity.
+(3) You may not release another batch of the PET drug product until you have corrected the problem con- cerning the malfunction of analytical equipment and completed the omitted finished-product test.
+§212.71 What actions must I take if a batch of PET drug product does not conform to specifications?
+(a) Rejection of nonconforming product. You must reject a batch of a PET drug
+186
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00197 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+product that does not conform to speci- fications. You must have and follow procedures to identify and segregate the product to avoid mix-ups. You must have and follow procedures to in- vestigate the cause(s) of the noncon- forming product. The investigation must include, but is not limited to, ex- amination of processes, operations, records, complaints, and any other rel- evant sources of information con- cerning the nonconforming product.
+(b) Investigation. You must document the investigation of a PET drug prod- uct that does not meet specifications, including the results of the investiga- tion and what happened to the rejected PET drug product.
+(c) Correction of problems. You must take action to correct any identified problems to prevent recurrence of a nonconforming product or other qual- ity problem.
+(d) Reprocessing. If appropriate, you may reprocess a batch of a PET drug product that does not conform to speci- fications. If material that does not meet acceptance criteria is reproc- essed, you must follow procedures stat- ed in the product’s approved applica- tion and the finished product must con- form to specifications, except for ste- rility, before final release.
+Subpart I—Packaging and Labeling
+§212.80 What are the requirements as- sociated with labeling and pack- aging PET drug products?
+(a) A PET drug product must be suit- ably labeled and packaged to protect the product from alteration, contami- nation, and damage during the estab- lished conditions of shipping, distribu- tion, handling, and use.
+(b) Labels must be legible and applied so as to remain legible and affixed dur- ing the established conditions of proc- essing, storage, handling, distribution, and use.
+(c) All information stated on each label must also be contained in each batch production record.
+(d) Labeling and packaging oper- ations must be controlled to prevent labeling and product mix-ups.
+§ 212.100 Subpart J—Distribution
+§212.90 What actions must I take to control the distribution of PET drug products?
+(a) Written distribution procedures. You must establish, maintain, and follow written procedures for the control of distribution of PET drug products shipped from the PET drug production facility to ensure that the method of shipping chosen will not adversely af- fect the identity, purity, or quality of the PET drug product.
+(b) Distribution records. You must maintain distribution records for each PET drug product that include or refer to the following:
+(1) The name, address, and telephone number of the receiving facility that received each batch of a PET drug product;
+(2) The name and quantity of the PET drug product shipped;
+(3) The lot number, control number, or batch number for the PET drug product shipped; and
+(4) The date and time you shipped the PET drug product.
+Subpart K—Complaint Handling
+§212.100 What do I do if I receive a complaint about a PET drug prod- uct produced at my facility?
+(a) Written complaint procedures. You must develop and follow written proce- dures for the receipt and handling of all complaints concerning the quality or purity of, or possible adverse reac- tions to, a PET drug product.
+(b) Complaint review. The procedures must include review by a designated person of any complaint involving the possible failure of a PET drug product to meet any of its specifications and an investigation to determine the cause of the failure.
+(c) Complaint records. A written record of each complaint must be maintained in a file designated for PET drug product complaints. The record must include the name and strength of the PET drug product, the batch num- ber, the name of the complainant, the date the complaint was received, the nature of the complaint, and the re- sponse to the complaint. It must also
+187
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022
+Jkt 256074 PO 00000 Frm 00198 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+§ 212.110
+include the findings of any investiga- tion and followup.
+(d) Returned products. A PET drug product that is returned because of a complaint or for any other reason may not be reprocessed and must be de- stroyed in accordance with applicable Federal and State law.
+Subpart L—Records
+21 CFR Ch. I (4–1–22 Edition)
+Subpart B—Compounded Drug Products
+§ 216.23 Bulk drug substances that can be used to compound drug products in accordance with section 503A of the Federal Food, Drug, and Cos- metic Act.
+(a) The following bulk drug sub- stances can be used in compounding under section 503A(b)(1)(A)(i)(III) of the Federal Food, Drug, and Cosmetic Act.
+(1) Brilliant Blue G, also known as Coomassie Brilliant Blue G–250.
+(2) Cantharidin (for topical use only).
+(3) Diphenylcyclopropenone (for top- ical use only).
+(4) N-acetyl-D-glucosamine (for top- ical use only).
+(5) Squaric acid dibutyl ester (for topical use only).
+(6) Thymol iodide (for topical use only).
+(b) After balancing the criteria set forth in paragraph (c) of this section, FDA has determined that the following bulk drug substances will not be in- cluded on the list of substances that can be used in compounding set forth in paragraph (a) of this section:
+(1) Oxitriptan.
+(2) Piracetam.
+(3) Silver Protein Mild.
+(4) Tranilast.
+(c) FDA will use the following cri-
+teria in evaluating substances consid- ered for inclusion on the list set forth in paragraph (a) of this section:
+(1) The physical and chemical charac- terization of the substance;
+(2) Any safety issues raised by the use of the substance in compounded drug products;
+(3) The available evidence of the ef- fectiveness or lack of effectiveness of a drug product compounded with the sub- stance, if any such evidence exists; and
+(4) Historical use of the substance in compounded drug products, including information about the medical condi- tion(s) the substance has been used to treat and any references in peer-re- viewed medical literature.
+(d) Based on evidence currently available, there are inadequate data to demonstrate the safety or efficacy of any drug product compounded using any of the drug substances listed in
+§212.110
+of my production of PET drugs?
+How must I maintain records
+(a) Record availability. Records must be maintained at the PET drug produc- tion facility or another location that is reasonably accessible to responsible of- ficials of the production facility and to employees of FDA designated to per- form inspections.
+(b) Record quality. All records, includ- ing those not stored at the inspected establishment, must be legible, stored to prevent deterioration or loss, and readily available for review and copy- ing by FDA employees.
+(c) Record retention period. You must maintain all records and documenta- tion referenced in this part for a period of at least 1 year from the date of final release, including conditional final re- lease, of a PET drug product.
+PART 216—HUMAN DRUG COMPOUNDING
+Subpart A—General Provisions [Reserved] Subpart B—Compounded Drug Products
+Sec.
+216.23 Bulk drug substances that can be
+used to compound drug products in ac- cordance with section 503A of the Federal Food, Drug, and Cosmetic Act.
+216.24 Drug products withdrawn or removed from the market for reasons of safety or effectiveness.
+AUTHORITY: 21 U.S.C. 351, 352, 353a, 353b, 355, and 371.
+SOURCE: 64 FR 10944, Mar. 8, 1999, unless otherwise noted.
+Subpart A—General Provisions [Reserved]
+188
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00199 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Food and Drug Administration, HHS
+paragraph (a) of this section, or to es- tablish general recognition of the safe- ty or effectiveness of any such drug product. Any person who represents that a compounded drug made with a bulk drug substance that appears on this list is FDA approved, or otherwise endorsed by FDA generally or for a particular indication, will cause the drug to be misbranded under section 502(a) and/or 502(bb) of the Federal Food, Drug, and Cosmetic Act.
+[84 FR 4710, Feb. 19, 2019]
+§216.24 Drug products withdrawn or removed from the market for rea- sons of safety or effectiveness.
+The following drug products were withdrawn or removed from the mar- ket because such drug products or com- ponents of such drug products have been found to be unsafe or not effec- tive. The following drug products may not be compounded under the exemp- tions provided by section 503A(a) or section 503B(a) of the Federal Food, Drug, and Cosmetic Act:
+Adenosine phosphate: All drug products con- taining adenosine phosphate.
+Adrenal cortex: All drug products containing adrenal cortex.
+Alatrofloxacin mesylate: All drug products containing alatrofloxacin mesylate.
+Aminopyrine: All drug products containing aminopyrine.
+Astemizole: All drug products containing astemizole.
+Azaribine: All drug products containing azaribine.
+Benoxaprofen: All drug products containing benoxaprofen.
+Bithionol: All drug products containing bithionol.
+Bromfenac sodium: All drug products con- taining bromfenac sodium (except oph- thalmic solutions).
+Bromocriptine mesylate: All drug products containing bromocriptine mesylate for pre- vention of physiological lactation.
+Butamben: All parenteral drug products con- taining butamben.
+Camphorated oil: All drug products con- taining camphorated oil.
+Carbetapentane citrate: All oral gel drug prod- ucts containing carbetapentane citrate.
+Casein, iodinated: All drug products con- taining iodinated casein.
+Cerivastatin sodium: All drug products con- taining cerivastatin sodium.
+Chloramphenicol: All oral drug products con- taining chloramphenicol.
+§ 216.24
+Chlorhexidine gluconate: All tinctures of chlorhexidine gluconate formulated for use as a patient preoperative skin preparation.
+Chlormadinone acetate: All drug products con- taining chlormadinone acetate.
+Chloroform: All drug products containing chloroform.
+Cisapride: All drug products containing cisapride.
+Cobalt: All drug products containing cobalt salts (except radioactive forms of cobalt and its salts and cobalamin and its deriva- tives).
+Dexfenfluramine hydrochloride: All drug prod- ucts containing dexfenfluramine hydro- chloride.
+Diamthazole dihydrochloride: All drug prod- ucts containing diamthazole dihydrochloride.
+Dibromsalan: All drug products containing dibromsalan.
+Diethylstilbestrol: All oral and parenteral drug products containing 25 milligrams or more of diethylstilbestrol per unit dose.
+Dihydrostreptomycin sulfate: All drug products containing dihydrostreptomycin sulfate. Dipyrone: All drug products containing
+dipyrone.
+Encainide hydrochloride: All drug products
+containing encainide hydrochloride. Esmolol hydrochloride: All parenteral dosage form drug products containing esmolol hy- drochloride that supply 250 milligrams/mil- liliter of concentrated esmolol per 10-milli-
+liter ampule.
+Etretinate: All drug products containing
+etretinate.
+Fenfluramine hydrochloride: All drug products
+containing fenfluramine hydrochloride. Flosequinan: All drug products containing
+flosequinan.
+Gatifloxacin: All drug products containing
+gatifloxacin (except ophthalmic solutions). Gelatin: All intravenous drug products con-
+taining gelatin.
+Glycerol, iodinated: All drug products con-
+taining iodinated glycerol.
+Gonadotropin, chorionic: All drug products
+containing chorionic gonadotropins of ani-
+mal origin.
+Grepafloxacin: All drug products containing
+grepafloxacin.
+Mepazine: All drug products containing
+mepazine hydrochloride or mepazine ace-
+tate.
+Metabromsalan: All drug products containing
+metabromsalan.
+Methamphetamine hydrochloride: All paren-
+teral drug products containing meth-
+amphetamine hydrochloride. Methapyrilene: All drug products containing
+methapyrilene.
+Methopholine: All drug products containing
+methopholine.
+Methoxyflurane: All drug products containing
+methoxyflurane.
+189
+rmajette on DSKB3F4F33PROD with CFR
+
+VerDate Sep<11>2014
+14:21 Nov 14, 2022 Jkt 256074 PO 00000 Frm 00200 Fmt 8010 Sfmt 8010 Y:\SGML\256074.XXX 256074
+Pt. 225
+Mibefradil dihydrochloride: All drug products containing mibefradil dihydrochloride.
+Nitrofurazone: All drug products containing nitrofurazone (except topical drug products formulated for dermatologic application).
+Nomifensine maleate: All drug products con- taining nomifensine maleate.
+Novobiocin sodium: All drug products con- taining novobiocin sodium.
+Ondansetron hydrochloride: All intravenous drug products containing greater than a 16 milligram single dose of ondansetron hy- drochloride.
+Oxyphenisatin: All drug products containing oxyphenisatin.
+Oxyphenisatin acetate: All drug products con- taining oxyphenisatin acetate.
+Pemoline: All drug products containing pemoline.
+Pergolide mesylate: All drug products con- taining pergolide mesylate.
+Phenacetin: All drug products containing phenacetin.
+Phenformin hydrochloride: All drug products containing phenformin hydrochloride.
+Phenylpropanolamine: All drug products con- taining phenylpropanolamine.
+Pipamazine: All drug products containing pipamazine.
+Polyethylene glycol 3350, sodium chloride, so- dium bicarbonate, potassium chloride, and bisacodyl: All drug products containing pol- yethylene glycol 3350, sodium chloride, so- dium bicarbonate, and potassium chloride for oral solution, and 10 milligrams or more of bisacodyl delayed-release tablets.
+Potassium arsenite: All drug products con- taining potassium arsenite.
+Potassium chloride: All solid oral dosage form drug products containing potassium chlo- ride that supply 100 milligrams or more of potassium per dosage unit (except for con- trolled-release dosage forms and those products formulated for preparation of so- lution prior to ingestion).
+Povidone: All intravenous drug products con- taining povidone.
+Propoxyphene: All drug products containing propoxyphene.
+Rapacuronium bromide: All drug products con- taining rapacuronium bromide.
+Reserpine: All oral dosage form drug products containing more than 1 milligram of reser- pine.
+Rofecoxib: All drug products containing rofecoxib.
+Sibutramine hydrochloride: All drug products containing sibutramine hydrochloride.
+Sparteine sulfate: All drug products con- taining sparteine sulfate.
+Sulfadimethoxine: All drug products con- taining sulfadimethoxine.
+Sulfathiazole: All drug products containing sulfathiazole (except for those formulated for vaginal use).
+Suprofen: All drug products containing suprofen (except ophthalmic solutions).
+21 CFR Ch. I (4–1–22 Edition)
+Sweet spirits of nitre: All drug products con- taining sweet spirits of nitre.
+Tegaserod maleate: All drug products con- taining tegaserod maleate.
+Temafloxacin hydrochloride: All drug products containing temafloxacin hydrochloride.
+Terfenadine: All drug products containing terfenadine.
+3,3′,4′,5-tetrachlorosalicylanilide: All drug prod- ucts containing 3,3′,4′,5-tetrachlorosalicyl- anilide.
+Tetracycline: All liquid oral drug products formulated for pediatric use containing tetracycline in a concentration greater than 25 milligrams/milliliter.
+Ticrynafen: All drug products containing ticrynafen.
+Tribromsalan: All drug products containing tribromsalan.
+Trichloroethane: All aerosol drug products in- tended for inhalation containing trichloro- ethane.
+Troglitazone: All drug products containing troglitazone.
+Trovafloxacin mesylate: All drug products con- taining trovafloxacin mesylate.
+Urethane: All drug products containing ure- thane.
+Valdecoxib: All drug products containing valdecoxib.
+Vinyl chloride: All aerosol drug products con- taining vinyl chloride.
+Zirconium: All aerosol drug products con- taining zirconium.
+Zomepirac sodium: All drug products con- taining zomepirac sodium.
+[81 FR 69676, Oct. 7, 2016, as amended at 83 FR 63573, Dec. 11, 2018]
