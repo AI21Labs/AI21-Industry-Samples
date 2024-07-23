@@ -4,8 +4,6 @@ import pandas as pd
 import json
 from snowflake.snowpark.context import get_active_session
 
-# Global variable to store contract description
-global original_contract_description
 
 # Set up the main title of the Streamlit app
 st.title("AI21's Jamba-Instruct in Snowflake Cortex :snake::snowflake:")
@@ -18,13 +16,13 @@ Jamba excels in handling long context use cases. With a 256k context window, Jam
 like many-shot prompting and efficient data extraction in fields like finance and healthcare.
 
 **Jamba Use Cases:**
-- Contract summarization and analysis
+- Multi-Document summarization and analysis
 - Legal document review
 - General question answering
 - Information extraction from complex texts
 
 **Helpful Links:**
-- [Jamba Cortext Launch Blog](https://docs.snowflake.com/en/sql-reference/functions/complete-snowflake-cortex)
+- [Jamba Cortex Launch Blog](https://docs.snowflake.com/en/sql-reference/functions/complete-snowflake-cortex)
 - [Cortex Complete Documentation (SNOWFLAKE.CORTEX)](https://docs.snowflake.com/en/sql-reference/functions/complete-snowflake-cortex)
 """)
 
@@ -33,61 +31,47 @@ st.markdown("---")
 # Get the current Snowflake session
 session = get_active_session()
 
-# Function to run a general Snowflake query using the selected language model | FUNCTION NOT USED IN THIS APP
-def run_snowflake_query(question):
-    params = f"""
-    SELECT SNOWFLAKE.CORTEX.COMPLETE(
-        '{option}',
-        [
-            {{'role': 'system', 'content': 'You are a helpful AI assistant. Answer the question in a helpful and concise way'}},
-            {{'role': 'user', 'content': '{question}'}}
-        ],
-        {{
-            'temperature': 0.7,
-            'max_tokens': 300
-        }}
-    );
-    """
-    result = session.sql(params).collect()
-    return result[0][0] if result else None
 
-# Set up the header for the Contract Companion section
-st.header("Jamba Contract Companion :snake:")
+st.header("Jamba 10-K Decoder :snake:")
 
-# Provide an explanation of the Contract Companion functionality
+# Provide an explanation of the app functionality
 st.write("""
-Contract Companion demonstrates Jamba-Instruct's model functionality within Snowflake Cortext. To show examples of reasoning over large amounts of text, contract 
-companion uses Cybersyn's [LLM_TRAINING_ESSENTIALS](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX1X/cybersyn-llm-training-essentials) database (specifically the GOVERNMENT_CONTRACT_INDEX view), 
+10-K Decoder demonstrates Jamba-Instruct's model functionality within Snowflake Cortex. To show examples of reasoning over large amounts of text, 10K Decoder 
+uses Cybersyn's [SEC_FILINGS](https://app.snowflake.com/marketplace/listing/GZTSZAS2KH9/cybersyn-sec-filings?originTab=provider&providerName=Cybersyn%2C&ref=blog.streamlit.io) database (specifically the SEC_REPORT_TEXT_ATTRIBUTES and SEC_REPORT_INDEX tables), 
 which is available for free in the Snowflake data marketpalce.
 
-This demo uses 1 row of data from GOVERNMENT_CONTRACT_INDEX, which is a long procrument contract for a United States Navy cargo ship. To view the raw table data click 'View Contract Details' below. (To expand 'Contract Description' double click the cell)
+This app uses the last 3 Fiscal Years of NVIDIA Corp's SEC 10-K filings. To view the raw table data click 'View 10K Detail' below. (To expand 'VALUE' double click the cell)
 """)
 
 
-# Function to fetch contract data from Snowflake
-def run_data_query():
-    query = """
+sec_query = """
     (
-    select agency, department, original_contract_title, original_contract_description, length(original_contract_description) as ccount
-    from LLM_TRAINING_ESSENTIALS.cybersyn.government_contract_index
-    where ccount between 25000 and 32000
-    and original_contract_description <> 'null'
-    and department <> 'null'
-    and agency <> 'null'
-    and original_contract_title = 'MAN DIESEL BRAND NAME ENGINE PARTS'
-    order by ccount DESC
-    limit 1)
+select A.*, B.* from "SEC_FILINGS"."CYBERSYN".SEC_REPORT_TEXT_ATTRIBUTES A
+left join "SEC_FILINGS"."CYBERSYN".SEC_REPORT_INDEX B
+on A.CIK = B.CIK
+where B.company_name = 'NVIDIA CORP' --limit the results to only show NVIDIA
+and B.form_type = '10-K' --10K filing only
+and A.variable_name = '10-K Filing Text' --10K filing only
+and ((A.PERIOD_END_DATE = '2024-01-28' and B.FISCAL_YEAR = 2023) 
+    or (A.PERIOD_END_DATE = '2023-01-29' and B.FISCAL_YEAR = 2022) 
+    or (A.PERIOD_END_DATE = '2022-01-30' and B.FISCAL_YEAR = 2021)) --NVIDIA 10K filings for the last 3 years
+order by FILED_DATE desc, PERIOD_END_DATE desc)
     """
-    result = session.sql(query).collect()
-    return result[0] if result else None
 
-# Function to run a contract-specific query using the selected language model
-def run_contract_query(question):
+
+# Function to fetch sec data from Snowflake
+def run_data_query():
+    query = sec_query
+    result = session.sql(query).collect()
+    return result
+
+# Function to run a specific query using the selected language model
+def run_query(question):
     params = f"""
     SELECT SNOWFLAKE.CORTEX.COMPLETE(
         '{option}',
         ARRAY_CONSTRUCT(
-            OBJECT_CONSTRUCT('role', 'system', 'content', 'You are a helpful AI contract assistant. Answer the question in a helpful and concise way, if you don''t know the answer respond with "I don''t know"'),
+            OBJECT_CONSTRUCT('role', 'system', 'content', 'You are a helpful AI SEC filing assistant. Answer the question in a helpful and concise way, if you don''t know the answer respond with "I don''t know"'),
             OBJECT_CONSTRUCT('role', 'user', 'content', '{question}')
         ),
         OBJECT_CONSTRUCT('temperature', 0.7, 'max_tokens', 3000)
@@ -96,48 +80,37 @@ def run_contract_query(question):
     result = session.sql(params).collect()
     return result[0][0] if result else None
 
-# Fetch contract data
-contract_data = run_data_query()
+# Fetch the data
+filing_data = run_data_query()
 
-# Display the SQL query used to fetch contract data
+# Display the SQL query used to fetch the data
 with st.expander("View SQL Query:"):
-    st.code('''
-    select agency, department, original_contract_title, original_contract_description, length(original_contract_description) as ccount
-    from LLM_TRAINING_ESSENTIALS.cybersyn.government_contract_index
-    where ccount between 25000 and 32000
-    and original_contract_description <> 'null'
-    and department <> 'null'
-    and agency <> 'null'
-    and original_contract_title = 'MAN DIESEL BRAND NAME ENGINE PARTS'
-    order by ccount DESC
-    limit 1)
-    ''')
+    st.code(sec_query)
 
-# Button to display contract details
-if st.button('View Contract Details'):
-    if contract_data:
+# Button to display the filing details
+if st.button('View 10K Detail'):
+    if filing_data:
         # Create a DataFrame for the main details
-        df_main = pd.DataFrame({
-            'Agency': [contract_data['AGENCY']],
-            'Department': [contract_data['DEPARTMENT']],
-            'Contract Title': [contract_data['ORIGINAL_CONTRACT_TITLE']],
-            'Description Length': [contract_data['CCOUNT']],
-            'Contract Description': [contract_data['ORIGINAL_CONTRACT_DESCRIPTION']]
-        })
+        df_main = pd.DataFrame([{
+            'SEC_DOCUMENT_ID': row['SEC_DOCUMENT_ID'],
+            'VARIABLE_NAME': row['VARIABLE_NAME'],
+            'COMPANY_NAME': row['COMPANY_NAME'],
+            'FILED_DATE': row['FILED_DATE'],
+            'FISCAL_YEAR': row['FISCAL_YEAR'],
+            'VALUE': row['VALUE']
+        } for row in filing_data])
         
         # Display the main details as a DataFrame
         st.dataframe(df_main)
+
+        # Create a string variable with all VALUE data concatenated
+        all_values = ' '.join(df_main['VALUE'].astype(str))
         
-        # Create a DataFrame for the full description
-        df_description = pd.DataFrame({
-            'Full Contract Description': [contract_data['ORIGINAL_CONTRACT_DESCRIPTION']]
-        })
-        
-        # Uncomment the following lines to display the full description in an expander
-        #with st.expander("View Full Contract Description"):
-            #st.dataframe(df_description)
+        # Display the concatenated string
+        # st.write("All VALUES concatenated:")
+        # st.text(all_values)
     else:
-        st.error("No contract data available.")
+        st.error("No filing data available.")
 
 
 
@@ -153,41 +126,54 @@ option = st.selectbox(
 "llama2-70b-chat",
 "llama3-8b",
 "llama3-70b",
+"llama3.1-405b",
 "mistral-7b",
 "gemma-7b",))
 
-# Provide information about using Jamba with long contracts
+# Provide information about using Jamba with long text
 st.write("""
-The text in the Contract Description is verbose and has many details, which is typical for a Request for Quote (RFQ) or Request for Proposal (RFP) document. 
-Using Jamba, we are able to submit large amounts of text in a single prompt and reason over it quickly. 
+The amount of text in an annual 10k filing is dense, and will push the context limits of language models to their breaking point. The most recent NVIDIA 10K is ~75K tokens long. 
 
-Some example prompts for long contracts:
-- Summarize | Summarize the key themes in this contract
-- Synthesize | Generate a response template for this request for quote, as to be filled out by the bidders
-- Q&A | What are the FAR and DFARS provisions that apply to this contract?
-- Q&A | What are the key dates that must be met in this contract?
-- Q&A | What NAICS codes are mentioned within the contract?
-- Q&A | Does the work need to be done on site?
+Using Jamba, we are able to submit large amounts of text in a single prompt and reason over it quickly. This means we can use Jamba as a RAG alternative as it supports up to 256K tokens! The token limit is so high, that we can analyze 3 years of NVIDIA 10K filings within a single prompt.
+
+Some example prompts for long 10K filings:
+- Summarize | Summarize the key themes in these 10K filings
+- Q&A | How has NVIDIA Corp's revenue and profit changed over the years?
+- Q&A | How has the company's market share in its primary industries changed?
+- Q&A | What major acquisitions or partnerships has the company engaged in?
+- Q&A | How has the company's discussion of sustainability initiatives or environmental impact changed across the filings?
 
 """)
 
 # Text input for user's question
-contract_question = st.text_input("Enter your question:", "Summarize the key themes in this contract")
+question = st.text_input("Enter your question:", "Summarize the key themes in these 10K filings")
 
 
-# Button to run the contract query
-if st.button('Run Contract Query'):
-    with st.spinner("Fetching contract data and running query..."):
-        if contract_data:
-            original_contract_description = contract_data['ORIGINAL_CONTRACT_DESCRIPTION']
+
+
+# Button to run the sec filing query
+if st.button('Run Filing Query'):
+    with st.spinner("Fetching filing data and running query..."):
+        if filing_data:
+            df_main = pd.DataFrame([{
+                'SEC_DOCUMENT_ID': row['SEC_DOCUMENT_ID'],
+                'VARIABLE_NAME': row['VARIABLE_NAME'],
+                'COMPANY_NAME': row['COMPANY_NAME'],
+                'FILED_DATE': row['FILED_DATE'],
+                'FISCAL_YEAR': row['FISCAL_YEAR'],
+                'VALUE': row['VALUE']
+            } for row in filing_data])
             
-            # Prepare the contract question with context
-            contract_question_context = f"{contract_question}\n\n\n\n{original_contract_description}".replace('"', '').replace("'", '')
+            # Create a string variable with all VALUE data concatenated
+            all_values = ' '.join(df_main['VALUE'].astype(str))
+            
+            # Prepare the question with context
+            question_context = f"{question}\n\n\n\n{all_values}".replace('"', '').replace("'", '')
             with st.expander("View Query and Context"):
-                st.write(contract_question_context)
+                st.write(question_context)
             
-            # Run the contract query
-            query_result = run_contract_query(contract_question_context)
+            # Run the query
+            query_result = run_query(question_context)
             
             if query_result:
                 # Parse the JSON string
@@ -195,14 +181,14 @@ if st.button('Run Contract Query'):
                 
                 # Display the message in a text area
                 message = result_json['choices'][0]['messages']
-                st.write("Jamba Contract Companion Response:")
+                st.write("Jamba-Instruct Response:")
                 st.write(message)
                 
                 # Display the full response in an expandable section
                 with st.expander("View Full Response"):
                     st.json(result_json)
             else:
-                st.error("No result returned from the contract query.")
+                st.error("No result returned from the query.")
         else:
             st.error("No result returned from the data query.")
     
@@ -212,4 +198,3 @@ if st.button('Run Contract Query'):
     """)
 
 st.markdown("---")
-
