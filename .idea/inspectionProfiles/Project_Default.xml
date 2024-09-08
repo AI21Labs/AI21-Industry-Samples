@@ -1,0 +1,260 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://0.0.0.0" />
+          <option value="http://127.0.0.1" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://documents-manager.cluster.global" />
+          <option value="http://java.sun.com/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://localhost" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.w3.org/" />
+          <option value="http://xmlns.jcp.org/" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="214">
+            <item index="0" class="java.lang.String" itemvalue="ruamel-yaml" />
+            <item index="1" class="java.lang.String" itemvalue="ruamel-yaml-clib" />
+            <item index="2" class="java.lang.String" itemvalue="keyrings-google-artifactregistry-auth" />
+            <item index="3" class="java.lang.String" itemvalue="jaraco-classes" />
+            <item index="4" class="java.lang.String" itemvalue="pycld2" />
+            <item index="5" class="java.lang.String" itemvalue="zope-event" />
+            <item index="6" class="java.lang.String" itemvalue="zope-interface" />
+            <item index="7" class="java.lang.String" itemvalue="protobuf" />
+            <item index="8" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="9" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="10" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="11" class="java.lang.String" itemvalue="pluggy" />
+            <item index="12" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="13" class="java.lang.String" itemvalue="mako" />
+            <item index="14" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="15" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="16" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="17" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="18" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="19" class="java.lang.String" itemvalue="google-resumable-media" />
+            <item index="20" class="java.lang.String" itemvalue="zipp" />
+            <item index="21" class="java.lang.String" itemvalue="certifi" />
+            <item index="22" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="23" class="java.lang.String" itemvalue="anyio" />
+            <item index="24" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="25" class="java.lang.String" itemvalue="urllib3" />
+            <item index="26" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="27" class="java.lang.String" itemvalue="vine" />
+            <item index="28" class="java.lang.String" itemvalue="pydantic" />
+            <item index="29" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="30" class="java.lang.String" itemvalue="pytest" />
+            <item index="31" class="java.lang.String" itemvalue="amqp" />
+            <item index="32" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="33" class="java.lang.String" itemvalue="toml" />
+            <item index="34" class="java.lang.String" itemvalue="click" />
+            <item index="35" class="java.lang.String" itemvalue="prometheus-client" />
+            <item index="36" class="java.lang.String" itemvalue="dparse" />
+            <item index="37" class="java.lang.String" itemvalue="cachetools" />
+            <item index="38" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="39" class="java.lang.String" itemvalue="click-repl" />
+            <item index="40" class="java.lang.String" itemvalue="pytz" />
+            <item index="41" class="java.lang.String" itemvalue="hurry-filesize" />
+            <item index="42" class="java.lang.String" itemvalue="keyring" />
+            <item index="43" class="java.lang.String" itemvalue="google-cloud-core" />
+            <item index="44" class="java.lang.String" itemvalue="httpcore" />
+            <item index="45" class="java.lang.String" itemvalue="idna" />
+            <item index="46" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="47" class="java.lang.String" itemvalue="pygraphviz" />
+            <item index="48" class="java.lang.String" itemvalue="httpx" />
+            <item index="49" class="java.lang.String" itemvalue="opentelemetry-instrumentation-tornado" />
+            <item index="50" class="java.lang.String" itemvalue="opentelemetry-instrumentation-falcon" />
+            <item index="51" class="java.lang.String" itemvalue="opentelemetry-instrumentation-pymongo" />
+            <item index="52" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="53" class="java.lang.String" itemvalue="opentelemetry-proto" />
+            <item index="54" class="java.lang.String" itemvalue="deprecated" />
+            <item index="55" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="56" class="java.lang.String" itemvalue="invoke" />
+            <item index="57" class="java.lang.String" itemvalue="executing" />
+            <item index="58" class="java.lang.String" itemvalue="pycparser" />
+            <item index="59" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="60" class="java.lang.String" itemvalue="opentelemetry-instrumentation-asyncpg" />
+            <item index="61" class="java.lang.String" itemvalue="opentelemetry-instrumentation-elasticsearch" />
+            <item index="62" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="63" class="java.lang.String" itemvalue="opentelemetry-distro" />
+            <item index="64" class="java.lang.String" itemvalue="opentelemetry-instrumentation-grpc" />
+            <item index="65" class="java.lang.String" itemvalue="safety" />
+            <item index="66" class="java.lang.String" itemvalue="starlette" />
+            <item index="67" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="68" class="java.lang.String" itemvalue="jurassic-tokenization" />
+            <item index="69" class="java.lang.String" itemvalue="opentelemetry-instrumentation-pika" />
+            <item index="70" class="java.lang.String" itemvalue="transformers" />
+            <item index="71" class="java.lang.String" itemvalue="opentelemetry-instrumentation-remoulade" />
+            <item index="72" class="java.lang.String" itemvalue="opentelemetry-api" />
+            <item index="73" class="java.lang.String" itemvalue="asgiref" />
+            <item index="74" class="java.lang.String" itemvalue="pexpect" />
+            <item index="75" class="java.lang.String" itemvalue="opentelemetry-util-http" />
+            <item index="76" class="java.lang.String" itemvalue="attrs" />
+            <item index="77" class="java.lang.String" itemvalue="opentelemetry-instrumentation-sqlite3" />
+            <item index="78" class="java.lang.String" itemvalue="psutil" />
+            <item index="79" class="java.lang.String" itemvalue="jedi" />
+            <item index="80" class="java.lang.String" itemvalue="boto3" />
+            <item index="81" class="java.lang.String" itemvalue="pure-eval" />
+            <item index="82" class="java.lang.String" itemvalue="regex" />
+            <item index="83" class="java.lang.String" itemvalue="asttokens" />
+            <item index="84" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="85" class="java.lang.String" itemvalue="python-storage-operations" />
+            <item index="86" class="java.lang.String" itemvalue="safety-schemas" />
+            <item index="87" class="java.lang.String" itemvalue="opentelemetry-instrumentation-mysql" />
+            <item index="88" class="java.lang.String" itemvalue="opentelemetry-propagator-aws-xray" />
+            <item index="89" class="java.lang.String" itemvalue="opentelemetry-exporter-otlp-proto-http" />
+            <item index="90" class="java.lang.String" itemvalue="rsa" />
+            <item index="91" class="java.lang.String" itemvalue="decorator" />
+            <item index="92" class="java.lang.String" itemvalue="cffi" />
+            <item index="93" class="java.lang.String" itemvalue="opentelemetry-instrumentation-urllib3" />
+            <item index="94" class="java.lang.String" itemvalue="wget" />
+            <item index="95" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="96" class="java.lang.String" itemvalue="numpy" />
+            <item index="97" class="java.lang.String" itemvalue="requests" />
+            <item index="98" class="java.lang.String" itemvalue="sniffio" />
+            <item index="99" class="java.lang.String" itemvalue="opentelemetry-instrumentation-system-metrics" />
+            <item index="100" class="java.lang.String" itemvalue="opentelemetry-instrumentation-flask" />
+            <item index="101" class="java.lang.String" itemvalue="opentelemetry-propagator-ot-trace" />
+            <item index="102" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="103" class="java.lang.String" itemvalue="stack-data" />
+            <item index="104" class="java.lang.String" itemvalue="tsm-common" />
+            <item index="105" class="java.lang.String" itemvalue="mdurl" />
+            <item index="106" class="java.lang.String" itemvalue="smart-open" />
+            <item index="107" class="java.lang.String" itemvalue="tenacity" />
+            <item index="108" class="java.lang.String" itemvalue="mmh3" />
+            <item index="109" class="java.lang.String" itemvalue="opentelemetry-instrumentation-psycopg2" />
+            <item index="110" class="java.lang.String" itemvalue="opentelemetry-instrumentation-dbapi" />
+            <item index="111" class="java.lang.String" itemvalue="pinecone-text" />
+            <item index="112" class="java.lang.String" itemvalue="opentelemetry-instrumentation-pymemcache" />
+            <item index="113" class="java.lang.String" itemvalue="opentelemetry-instrumentation-aiohttp-client" />
+            <item index="114" class="java.lang.String" itemvalue="pygments" />
+            <item index="115" class="java.lang.String" itemvalue="scipy" />
+            <item index="116" class="java.lang.String" itemvalue="botocore" />
+            <item index="117" class="java.lang.String" itemvalue="black" />
+            <item index="118" class="java.lang.String" itemvalue="torch" />
+            <item index="119" class="java.lang.String" itemvalue="opentelemetry-propagator-b3" />
+            <item index="120" class="java.lang.String" itemvalue="opentelemetry-instrumentation-wsgi" />
+            <item index="121" class="java.lang.String" itemvalue="opentelemetry-semantic-conventions" />
+            <item index="122" class="java.lang.String" itemvalue="ai21-logging" />
+            <item index="123" class="java.lang.String" itemvalue="opentelemetry-instrumentation-tortoiseorm" />
+            <item index="124" class="java.lang.String" itemvalue="ruff" />
+            <item index="125" class="java.lang.String" itemvalue="ai21-telemetry" />
+            <item index="126" class="java.lang.String" itemvalue="isort" />
+            <item index="127" class="java.lang.String" itemvalue="opentelemetry-instrumentation" />
+            <item index="128" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="129" class="java.lang.String" itemvalue="traitlets" />
+            <item index="130" class="java.lang.String" itemvalue="joblib" />
+            <item index="131" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="132" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="133" class="java.lang.String" itemvalue="mypy" />
+            <item index="134" class="java.lang.String" itemvalue="nltk" />
+            <item index="135" class="java.lang.String" itemvalue="opentelemetry-instrumentation-django" />
+            <item index="136" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="137" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="138" class="java.lang.String" itemvalue="h11" />
+            <item index="139" class="java.lang.String" itemvalue="opentelemetry-instrumentation-boto" />
+            <item index="140" class="java.lang.String" itemvalue="setuptools" />
+            <item index="141" class="java.lang.String" itemvalue="opentelemetry-instrumentation-requests" />
+            <item index="142" class="java.lang.String" itemvalue="fsspec" />
+            <item index="143" class="java.lang.String" itemvalue="syntok" />
+            <item index="144" class="java.lang.String" itemvalue="filelock" />
+            <item index="145" class="java.lang.String" itemvalue="safetensors" />
+            <item index="146" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="147" class="java.lang.String" itemvalue="opentelemetry-instrumentation-pyramid" />
+            <item index="148" class="java.lang.String" itemvalue="opentelemetry-instrumentation-asgi" />
+            <item index="149" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="150" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="151" class="java.lang.String" itemvalue="google-crc32c" />
+            <item index="152" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="153" class="java.lang.String" itemvalue="opentelemetry-instrumentation-sqlalchemy" />
+            <item index="154" class="java.lang.String" itemvalue="opentelemetry-instrumentation-kafka-python" />
+            <item index="155" class="java.lang.String" itemvalue="wrapt" />
+            <item index="156" class="java.lang.String" itemvalue="cryptography" />
+            <item index="157" class="java.lang.String" itemvalue="opentelemetry-instrumentation-sklearn" />
+            <item index="158" class="java.lang.String" itemvalue="authlib" />
+            <item index="159" class="java.lang.String" itemvalue="opentelemetry-instrumentation-urllib" />
+            <item index="160" class="java.lang.String" itemvalue="opentelemetry-instrumentation-fastapi" />
+            <item index="161" class="java.lang.String" itemvalue="jinja2" />
+            <item index="162" class="java.lang.String" itemvalue="opentelemetry-instrumentation-pymysql" />
+            <item index="163" class="java.lang.String" itemvalue="opentelemetry-instrumentation-redis" />
+            <item index="164" class="java.lang.String" itemvalue="opentelemetry-instrumentation-httpx" />
+            <item index="165" class="java.lang.String" itemvalue="opentelemetry-instrumentation-jinja2" />
+            <item index="166" class="java.lang.String" itemvalue="shellingham" />
+            <item index="167" class="java.lang.String" itemvalue="pathspec" />
+            <item index="168" class="java.lang.String" itemvalue="matplotlib-inline" />
+            <item index="169" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="170" class="java.lang.String" itemvalue="opentelemetry-instrumentation-aio-pika" />
+            <item index="171" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="172" class="java.lang.String" itemvalue="opentelemetry-sdk" />
+            <item index="173" class="java.lang.String" itemvalue="opentelemetry-instrumentation-confluent-kafka" />
+            <item index="174" class="java.lang.String" itemvalue="opentelemetry-propagator-jaeger" />
+            <item index="175" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="176" class="java.lang.String" itemvalue="tomli" />
+            <item index="177" class="java.lang.String" itemvalue="opentelemetry-instrumentation-starlette" />
+            <item index="178" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="179" class="java.lang.String" itemvalue="opentelemetry-instrumentation-aiopg" />
+            <item index="180" class="java.lang.String" itemvalue="coverage" />
+            <item index="181" class="java.lang.String" itemvalue="six" />
+            <item index="182" class="java.lang.String" itemvalue="typer" />
+            <item index="183" class="java.lang.String" itemvalue="opentelemetry-instrumentation-botocore" />
+            <item index="184" class="java.lang.String" itemvalue="parso" />
+            <item index="185" class="java.lang.String" itemvalue="ipython" />
+            <item index="186" class="java.lang.String" itemvalue="rich" />
+            <item index="187" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="188" class="java.lang.String" itemvalue="opentelemetry-instrumentation-logging" />
+            <item index="189" class="java.lang.String" itemvalue="packaging" />
+            <item index="190" class="java.lang.String" itemvalue="prometheus-fastapi-instrumentator" />
+            <item index="191" class="java.lang.String" itemvalue="opentelemetry-instrumentation-boto3sqs" />
+            <item index="192" class="java.lang.String" itemvalue="jmespath" />
+            <item index="193" class="java.lang.String" itemvalue="tqdm" />
+            <item index="194" class="java.lang.String" itemvalue="fastapi" />
+            <item index="195" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="196" class="java.lang.String" itemvalue="opentelemetry-instrumentation-celery" />
+            <item index="197" class="java.lang.String" itemvalue="pillow" />
+            <item index="198" class="java.lang.String" itemvalue="opentelemetry-exporter-otlp-proto-common" />
+            <item index="199" class="java.lang.String" itemvalue="google-auth" />
+            <item index="200" class="java.lang.String" itemvalue="deptry" />
+            <item index="201" class="java.lang.String" itemvalue="pylint" />
+            <item index="202" class="java.lang.String" itemvalue="astroid" />
+            <item index="203" class="java.lang.String" itemvalue="pytest-asyncio" />
+            <item index="204" class="java.lang.String" itemvalue="retrying" />
+            <item index="205" class="java.lang.String" itemvalue="lxml" />
+            <item index="206" class="java.lang.String" itemvalue="html2text" />
+            <item index="207" class="java.lang.String" itemvalue="llama-hub" />
+            <item index="208" class="java.lang.String" itemvalue="pytils" />
+            <item index="209" class="java.lang.String" itemvalue="atlassian-python-api" />
+            <item index="210" class="java.lang.String" itemvalue="tools" />
+            <item index="211" class="java.lang.String" itemvalue="tavily-python" />
+            <item index="212" class="java.lang.String" itemvalue="llama-index-core" />
+            <item index="213" class="java.lang.String" itemvalue="llama-index-tools-tavily-research" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="ReassignedToPlainText" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
