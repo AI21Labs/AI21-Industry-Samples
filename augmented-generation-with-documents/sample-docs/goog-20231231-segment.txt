@@ -1,0 +1,23 @@
+
+The following table summarizes our consolidated financial results (in millions, except for per share information and percentages):
+Year Ended December 31,				
+2022		2023		$ Change		% Change
+Consolidated revenues	$	282,836 			$	307,394 			$	24,558 			9 	%
+Change in consolidated constant currency revenues(1)
+10 	%
+Cost of revenues	$	126,203 			$	133,332 			$	7,129 			6 	%
+Operating expenses	$	81,791 			$	89,769 			$	7,978 			10 	%
+Operating income	$	74,842 			$	84,293 			$	9,451 			13 	%
+Operating margin	26 	%		27 	%				1 	%
+Other income (expense), net	$	(3,514)			$	1,424 			$	4,938 			NM
+Net income	$	59,972 			$	73,795 			$	13,823 			23 	%
+Diluted EPS	$	4.56 			$	5.80 			$	1.24 			27 	%
+ NM = Not Meaningful
+(1)    See "Use of Non-GAAP Constant Currency Information" below for details relating to our use of constant currency information.
+•Revenues were $307.4 billion, an increase of 9% year over year, primarily driven by an increase in Google Services revenues of $19.0 billion, or 8%, and an increase in Google Cloud revenues of $6.8 billion, or 26%.
+•Total constant currency revenues, which exclude the effect of hedging, increased 10% year over year.
+•Cost of revenues was $133.3 billion, an increase of 6% year over year, primarily driven by increases in content acquisition costs, compensation expenses, and TAC. The increase in compensation expenses included charges related to employee severance associated with the reduction in our workforce. Additionally, cost of revenues benefited from a reduction in depreciation due to the change in estimated useful lives of our servers and network equipment.
+•Operating expenses were $89.8 billion, an increase of 10% year over year, primarily driven by an increase in compensation expenses and charges related to our office space optimization efforts. The increase in compensation expenses was largely the result of charges related to employee severance associated with the reduction in our workforce and an increase in SBC expense. Operating expenses benefited from the change in the estimated useful lives of our servers and certain network equipment.
+Other Information:
+•In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.1 billion for the year ended December 31, 2023. In addition, we are taking actions to optimize our global office space. As a result, exit charges recorded during the year ended December 31, 2023, were $1.8 billion. In addition to these exit charges, for the year ended December 31, 2023, we incurred $269 million in accelerated rent and accelerated depreciation. For additional information, see Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
+•In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $3.9 billion for the year ended December 31, 2023, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K.
