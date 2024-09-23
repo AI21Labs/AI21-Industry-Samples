@@ -1,1 +1,4 @@
-
+ai21==2.12.0
+streamlit==1.30.0
+PyPDF3 ==3.0.1
+json
