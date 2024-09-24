@@ -1,0 +1,21 @@
+
+The following table summarizes consolidated financial results for the years ended December 31, 2020 and 2021 unless otherwise specified (in millions, except for per share information and percentages):
+Year Ended December 31,				
+2020		2021		$ Change		% Change
+Consolidated revenues	$	182,527 			$	257,637 			$	75,110 			41 	%
+Change in consolidated constant currency revenues							39 	%
+Cost of revenues	$	84,732 			$	110,939 			$	26,207 			31 	%
+Operating expenses	$	56,571 			$	67,984 			$	11,413 			20 	%
+Operating income	$	41,224 			$	78,714 			$	37,490 			91 	%
+Operating margin	23 	%		31 	%				8 	%
+Other income (expense), net	$	6,858 			$	12,020 			$	5,162 			75 	%
+Net Income	$	40,269 			$	76,033 			$	35,764 			89 	%
+Diluted EPS	$	58.61 			$	112.20 			$	53.59 			91 	%
+Number of Employees	135,301		156,500		21,199		16 	%
+ 
+•Revenues were $257.6 billion, an increase of 41%. The increase in revenues was primarily driven by Google Services and Google Cloud. The adverse effect of COVID-19 on 2020 advertising revenues also contributed to the year-over-year growth.
+•Cost of revenues was $110.9 billion, an increase of 31%, primarily driven by increases in TAC and content acquisition costs. An overall increase in data centers and other operations costs was partially offset by a reduction in depreciation expense due to the change in the estimated useful life of our servers and certain network equipment.
+•Operating expenses were $68.0 billion, an increase of 20%, primarily driven by headcount growth, increases in advertising and promotional expenses and charges related to legal matters.
+Other information:
+•Operating cash flow was $91.7 billion, primarily driven by revenues generated from our advertising products.
+•Share repurchases were $50.3 billion, an increase of 62%. See Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for further information.

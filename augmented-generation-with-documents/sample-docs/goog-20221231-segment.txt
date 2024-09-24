@@ -1,0 +1,37 @@
+
+The following table summarizes our consolidated financial results (in millions, except for per share information and percentages):
+Year Ended December 31,				
+2021		2022		$ Change		% Change
+Consolidated revenues	$	257,637 			$	282,836 			$	25,199 			10 	%
+Change in consolidated constant currency revenues(1)
+14 	%
+Cost of revenues	$	110,939 			$	126,203 			$	15,264 			14 	%
+Operating expenses	$	67,984 			$	81,791 			$	13,807 			20 	%
+Operating income	$	78,714 			$	74,842 			$	(3,872)			(5)	%
+Operating margin	31 	%		26 	%				(5)	%
+Other income (expense), net	$	12,020 			$	(3,514)			$	(15,534)			(129)	%
+Net income	$	76,033 			$	59,972 			$	(16,061)			(21)	%
+Diluted EPS	$	5.61 			$	4.56 			$	(1.05)			(19)	%
+ 
+(1)    See "Use of Non-GAAP Constant Currency Measures" below for details relating to our use of constant currency information.
+•Revenues were $282.8 billion, an increase of 10% year over year, primarily driven by an increase in Google Services revenues of $16.0 billion, or 7%, and an increase in Google Cloud revenues of $7.1 billion, or 37%.
+•Total constant currency revenues, which exclude the effect of hedging, increased 14% year over year.
+30
+Table of Contents
+Alphabet Inc.
+ 
+•Cost of revenues was $126.2 billion, an increase of 14% year over year, primarily driven by an increase in other costs of revenues.
+•Operating expenses were $81.8 billion, an increase of 20% year over year, primarily driven by increases in compensation expenses due to headcount growth, third-party service fees, and advertising and promotional expenses.
+Other information:
+•On September 12, 2022, we closed the acquisition of Mandiant for a total purchase price of $6.1 billion and added more than 2,600 employees. Mandiant's financial results are reported within Google Cloud as of the acquisition date. See Note 8 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for additional information.
+•On July 15, 2022, the company executed a 20-for-one stock split with a record date of July 1, 2022, effected in the form of a one-time special stock dividend on each share of the company's Class A, Class B, and Class C stock. All prior period references made to share or per share amounts throughout this Management's Discussion and Analysis of Financial Condition and Results of Operations prior to the effective date have been retroactively adjusted to reflect the effects of the Stock Split. See Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for additional information.
+•Beginning in the first quarter of 2022, we suspended the vast majority of our commercial activities in Russia and effectively ceased business activities of our Russian entity. The ongoing effect of these direct actions on our financial results was not material. The broader economic effects resulting from the war in Ukraine on our future financial results may be unpredictable.
+•Repurchases of Class A and Class C shares were $59.3 billion for the year ended December 31, 2022. See Note 11 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for additional information.
+•Operating cash flow was $91.5 billion for the year ended December 31, 2022.
+•Capital expenditures, which primarily reflected investments in technical infrastructure, were $31.5 billion for the year ended December 31, 2022.
+•As of December 31, 2022, we had 190,234 employees.
+Additionally, looking ahead to fiscal year 2023:
+•In January 2023, we announced a reduction of our workforce of approximately 12,000 roles. We expect to incur employee severance and related charges of $1.9 billion to $2.3 billion, the majority of which will be recognized in the first quarter of 2023.
+In addition, we are taking actions to optimize our global office space. As a result we expect to incur exit costs relating to office space reductions of approximately $0.5 billion in the first quarter of 2023. We may incur additional charges in the future as we further evaluate our real estate needs.
+•In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years, which we expect to result in a reduction of depreciation of approximately $3.4 billion for the full fiscal year 2023 for assets in service as of December 31, 2022, recorded primarily in cost of revenues and R&D expenses.
+•As AI is critical to delivering our mission of bringing our breakthrough innovations into the real world, beginning in January 2023, we will update our segment reporting relating to certain of Alphabet's AI activities. DeepMind, previously reported within Other Bets, will be reported as part of Alphabet's corporate costs, reflecting its increasing collaboration with Google Services, Google Cloud, and Other Bets. Prior periods will be recast to conform to the revised presentation. See Note 15 of the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report on Form 10-K for information relating to our segments.
